@@ -1,0 +1,219 @@
+"Any","Codi_Districte","Nom_Districte","Codi_Barri","Nom_Barri","Grau_Discapacitat","Nombre"
+2016,1,"Ciutat Vella",1,"el Raval","33-64%",1782
+2016,1,"Ciutat Vella",2,"el Barri Gòtic","33-64%",626
+2016,1,"Ciutat Vella",3,"la Barceloneta","33-64%",668
+2016,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","33-64%",799
+2016,2,"Eixample",5,"el Fort Pienc","33-64%",1103
+2016,2,"Eixample",6,"la Sagrada Família","33-64%",1998
+2016,2,"Eixample",7,"la Dreta de l'Eixample","33-64%",1420
+2016,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","33-64%",1452
+2016,2,"Eixample",9,"la Nova Esquerra de l'Eixample","33-64%",2389
+2016,2,"Eixample",10,"Sant Antoni","33-64%",1570
+2016,3,"Sants-Montjuïc",11,"el Poble Sec","33-64%",1665
+2016,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","33-64%",91
+2016,3,"Sants-Montjuïc",13,"la Marina de Port","33-64%",1913
+2016,3,"Sants-Montjuïc",14,"la Font de la Guatlla","33-64%",516
+2016,3,"Sants-Montjuïc",15,"Hostafrancs","33-64%",651
+2016,3,"Sants-Montjuïc",16,"la Bordeta","33-64%",869
+2016,3,"Sants-Montjuïc",17,"Sants - Badal","33-64%",1036
+2016,3,"Sants-Montjuïc",18,"Sants","33-64%",1728
+2016,4,"Les Corts",19,"les Corts","33-64%",1782
+2016,4,"Les Corts",20,"la Maternitat i Sant Ramon","33-64%",1001
+2016,4,"Les Corts",21,"Pedralbes","33-64%",338
+2016,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","33-64%",118
+2016,5,"Sarrià-Sant Gervasi",23,"Sarrià","33-64%",614
+2016,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","33-64%",383
+2016,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","33-64%",663
+2016,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","33-64%",1248
+2016,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","33-64%",840
+2016,6,"Gràcia",28,"Vallcarca i els Penitents","33-64%",577
+2016,6,"Gràcia",29,"el Coll","33-64%",346
+2016,6,"Gràcia",30,"la Salut","33-64%",478
+2016,6,"Gràcia",31,"la Vila de Gràcia","33-64%",1758
+2016,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","33-64%",1327
+2016,7,"Horta-Guinardó",33,"el Baix Guinardó","33-64%",986
+2016,7,"Horta-Guinardó",34,"Can Baró","33-64%",389
+2016,7,"Horta-Guinardó",35,"el Guinardó","33-64%",1477
+2016,7,"Horta-Guinardó",36,"la Font d'en Fargues","33-64%",374
+2016,7,"Horta-Guinardó",37,"el Carmel","33-64%",1739
+2016,7,"Horta-Guinardó",38,"la Teixonera","33-64%",563
+2016,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","33-64%",332
+2016,7,"Horta-Guinardó",40,"Montbau","33-64%",230
+2016,7,"Horta-Guinardó",41,"la Vall d'Hebron","33-64%",239
+2016,7,"Horta-Guinardó",42,"la Clota","33-64%",17
+2016,7,"Horta-Guinardó",43,"Horta","33-64%",1263
+2016,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","33-64%",1262
+2016,8,"Nou Barris",45,"Porta","33-64%",1321
+2016,8,"Nou Barris",46,"el Turó de la Peira","33-64%",774
+2016,8,"Nou Barris",47,"Can Peguera","33-64%",178
+2016,8,"Nou Barris",48,"la Guineueta","33-64%",944
+2016,8,"Nou Barris",49,"Canyelles","33-64%",537
+2016,8,"Nou Barris",50,"les Roquetes","33-64%",927
+2016,8,"Nou Barris",51,"Verdun","33-64%",716
+2016,8,"Nou Barris",52,"la Prosperitat","33-64%",1424
+2016,8,"Nou Barris",53,"la Trinitat Nova","33-64%",441
+2016,8,"Nou Barris",54,"Torre Baró","33-64%",211
+2016,8,"Nou Barris",55,"Ciutat Meridiana","33-64%",658
+2016,8,"Nou Barris",56,"Vallbona","33-64%",98
+2016,9,"Sant Andreu",57,"la Trinitat Vella","33-64%",499
+2016,9,"Sant Andreu",58,"Baró de Viver","33-64%",194
+2016,9,"Sant Andreu",59,"el Bon Pastor","33-64%",615
+2016,9,"Sant Andreu",60,"Sant Andreu","33-64%",2699
+2016,9,"Sant Andreu",61,"la Sagrera","33-64%",1400
+2016,9,"Sant Andreu",62,"el Congrés i els Indians","33-64%",660
+2016,9,"Sant Andreu",63,"Navas","33-64%",966
+2016,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","33-64%",1612
+2016,10,"Sant Martí",65,"el Clot","33-64%",1150
+2016,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","33-64%",658
+2016,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","33-64%",218
+2016,10,"Sant Martí",68,"el Poblenou","33-64%",1273
+2016,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","33-64%",450
+2016,10,"Sant Martí",70,"el Besòs i el Maresme","33-64%",1120
+2016,10,"Sant Martí",71,"Provençals del Poblenou","33-64%",913
+2016,10,"Sant Martí",72,"Sant Martí de Provençals","33-64%",1313
+2016,10,"Sant Martí",73,"la Verneda i la Pau","33-64%",1712
+2016,1,"Ciutat Vella",1,"el Raval","65-74%",1418
+2016,1,"Ciutat Vella",2,"el Barri Gòtic","65-74%",430
+2016,1,"Ciutat Vella",3,"la Barceloneta","65-74%",485
+2016,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","65-74%",558
+2016,2,"Eixample",5,"el Fort Pienc","65-74%",579
+2016,2,"Eixample",6,"la Sagrada Família","65-74%",1120
+2016,2,"Eixample",7,"la Dreta de l'Eixample","65-74%",878
+2016,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","65-74%",878
+2016,2,"Eixample",9,"la Nova Esquerra de l'Eixample","65-74%",1301
+2016,2,"Eixample",10,"Sant Antoni","65-74%",872
+2016,3,"Sants-Montjuïc",11,"el Poble Sec","65-74%",1035
+2016,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","65-74%",72
+2016,3,"Sants-Montjuïc",13,"la Marina de Port","65-74%",945
+2016,3,"Sants-Montjuïc",14,"la Font de la Guatlla","65-74%",309
+2016,3,"Sants-Montjuïc",15,"Hostafrancs","65-74%",455
+2016,3,"Sants-Montjuïc",16,"la Bordeta","65-74%",429
+2016,3,"Sants-Montjuïc",17,"Sants - Badal","65-74%",532
+2016,3,"Sants-Montjuïc",18,"Sants","65-74%",892
+2016,4,"Les Corts",19,"les Corts","65-74%",881
+2016,4,"Les Corts",20,"la Maternitat i Sant Ramon","65-74%",517
+2016,4,"Les Corts",21,"Pedralbes","65-74%",173
+2016,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","65-74%",59
+2016,5,"Sarrià-Sant Gervasi",23,"Sarrià","65-74%",379
+2016,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","65-74%",219
+2016,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","65-74%",450
+2016,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","65-74%",693
+2016,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","65-74%",493
+2016,6,"Gràcia",28,"Vallcarca i els Penitents","65-74%",367
+2016,6,"Gràcia",29,"el Coll","65-74%",176
+2016,6,"Gràcia",30,"la Salut","65-74%",267
+2016,6,"Gràcia",31,"la Vila de Gràcia","65-74%",1061
+2016,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","65-74%",711
+2016,7,"Horta-Guinardó",33,"el Baix Guinardó","65-74%",529
+2016,7,"Horta-Guinardó",34,"Can Baró","65-74%",234
+2016,7,"Horta-Guinardó",35,"el Guinardó","65-74%",776
+2016,7,"Horta-Guinardó",36,"la Font d'en Fargues","65-74%",193
+2016,7,"Horta-Guinardó",37,"el Carmel","65-74%",855
+2016,7,"Horta-Guinardó",38,"la Teixonera","65-74%",276
+2016,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","65-74%",162
+2016,7,"Horta-Guinardó",40,"Montbau","65-74%",158
+2016,7,"Horta-Guinardó",41,"la Vall d'Hebron","65-74%",117
+2016,7,"Horta-Guinardó",42,"la Clota","65-74%",12
+2016,7,"Horta-Guinardó",43,"Horta","65-74%",614
+2016,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","65-74%",537
+2016,8,"Nou Barris",45,"Porta","65-74%",664
+2016,8,"Nou Barris",46,"el Turó de la Peira","65-74%",430
+2016,8,"Nou Barris",47,"Can Peguera","65-74%",108
+2016,8,"Nou Barris",48,"la Guineueta","65-74%",492
+2016,8,"Nou Barris",49,"Canyelles","65-74%",242
+2016,8,"Nou Barris",50,"les Roquetes","65-74%",492
+2016,8,"Nou Barris",51,"Verdun","65-74%",384
+2016,8,"Nou Barris",52,"la Prosperitat","65-74%",657
+2016,8,"Nou Barris",53,"la Trinitat Nova","65-74%",263
+2016,8,"Nou Barris",54,"Torre Baró","65-74%",124
+2016,8,"Nou Barris",55,"Ciutat Meridiana","65-74%",326
+2016,8,"Nou Barris",56,"Vallbona","65-74%",52
+2016,9,"Sant Andreu",57,"la Trinitat Vella","65-74%",259
+2016,9,"Sant Andreu",58,"Baró de Viver","65-74%",105
+2016,9,"Sant Andreu",59,"el Bon Pastor","65-74%",384
+2016,9,"Sant Andreu",60,"Sant Andreu","65-74%",1262
+2016,9,"Sant Andreu",61,"la Sagrera","65-74%",663
+2016,9,"Sant Andreu",62,"el Congrés i els Indians","65-74%",347
+2016,9,"Sant Andreu",63,"Navas","65-74%",498
+2016,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","65-74%",908
+2016,10,"Sant Martí",65,"el Clot","65-74%",510
+2016,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","65-74%",433
+2016,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","65-74%",108
+2016,10,"Sant Martí",68,"el Poblenou","65-74%",595
+2016,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","65-74%",208
+2016,10,"Sant Martí",70,"el Besòs i el Maresme","65-74%",612
+2016,10,"Sant Martí",71,"Provençals del Poblenou","65-74%",428
+2016,10,"Sant Martí",72,"Sant Martí de Provençals","65-74%",732
+2016,10,"Sant Martí",73,"la Verneda i la Pau","65-74%",806
+2016,1,"Ciutat Vella",1,"el Raval","75% i més",678
+2016,1,"Ciutat Vella",2,"el Barri Gòtic","75% i més",212
+2016,1,"Ciutat Vella",3,"la Barceloneta","75% i més",308
+2016,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","75% i més",336
+2016,2,"Eixample",5,"el Fort Pienc","75% i més",457
+2016,2,"Eixample",6,"la Sagrada Família","75% i més",842
+2016,2,"Eixample",7,"la Dreta de l'Eixample","75% i més",661
+2016,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","75% i més",588
+2016,2,"Eixample",9,"la Nova Esquerra de l'Eixample","75% i més",873
+2016,2,"Eixample",10,"Sant Antoni","75% i més",656
+2016,3,"Sants-Montjuïc",11,"el Poble Sec","75% i més",643
+2016,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","75% i més",67
+2016,3,"Sants-Montjuïc",13,"la Marina de Port","75% i més",726
+2016,3,"Sants-Montjuïc",14,"la Font de la Guatlla","75% i més",317
+2016,3,"Sants-Montjuïc",15,"Hostafrancs","75% i més",266
+2016,3,"Sants-Montjuïc",16,"la Bordeta","75% i més",293
+2016,3,"Sants-Montjuïc",17,"Sants - Badal","75% i més",390
+2016,3,"Sants-Montjuïc",18,"Sants","75% i més",649
+2016,4,"Les Corts",19,"les Corts","75% i més",712
+2016,4,"Les Corts",20,"la Maternitat i Sant Ramon","75% i més",445
+2016,4,"Les Corts",21,"Pedralbes","75% i més",179
+2016,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","75% i més",61
+2016,5,"Sarrià-Sant Gervasi",23,"Sarrià","75% i més",339
+2016,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","75% i més",170
+2016,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","75% i més",343
+2016,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","75% i més",621
+2016,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","75% i més",391
+2016,6,"Gràcia",28,"Vallcarca i els Penitents","75% i més",249
+2016,6,"Gràcia",29,"el Coll","75% i més",148
+2016,6,"Gràcia",30,"la Salut","75% i més",325
+2016,6,"Gràcia",31,"la Vila de Gràcia","75% i més",710
+2016,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","75% i més",549
+2016,7,"Horta-Guinardó",33,"el Baix Guinardó","75% i més",447
+2016,7,"Horta-Guinardó",34,"Can Baró","75% i més",143
+2016,7,"Horta-Guinardó",35,"el Guinardó","75% i més",530
+2016,7,"Horta-Guinardó",36,"la Font d'en Fargues","75% i més",146
+2016,7,"Horta-Guinardó",37,"el Carmel","75% i més",493
+2016,7,"Horta-Guinardó",38,"la Teixonera","75% i més",190
+2016,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","75% i més",117
+2016,7,"Horta-Guinardó",40,"Montbau","75% i més",166
+2016,7,"Horta-Guinardó",41,"la Vall d'Hebron","75% i més",104
+2016,7,"Horta-Guinardó",42,"la Clota","75% i més",13
+2016,7,"Horta-Guinardó",43,"Horta","75% i més",471
+2016,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","75% i més",478
+2016,8,"Nou Barris",45,"Porta","75% i més",506
+2016,8,"Nou Barris",46,"el Turó de la Peira","75% i més",296
+2016,8,"Nou Barris",47,"Can Peguera","75% i més",65
+2016,8,"Nou Barris",48,"la Guineueta","75% i més",363
+2016,8,"Nou Barris",49,"Canyelles","75% i més",139
+2016,8,"Nou Barris",50,"les Roquetes","75% i més",285
+2016,8,"Nou Barris",51,"Verdun","75% i més",237
+2016,8,"Nou Barris",52,"la Prosperitat","75% i més",458
+2016,8,"Nou Barris",53,"la Trinitat Nova","75% i més",156
+2016,8,"Nou Barris",54,"Torre Baró","75% i més",73
+2016,8,"Nou Barris",55,"Ciutat Meridiana","75% i més",190
+2016,8,"Nou Barris",56,"Vallbona","75% i més",52
+2016,9,"Sant Andreu",57,"la Trinitat Vella","75% i més",150
+2016,9,"Sant Andreu",58,"Baró de Viver","75% i més",77
+2016,9,"Sant Andreu",59,"el Bon Pastor","75% i més",208
+2016,9,"Sant Andreu",60,"Sant Andreu","75% i més",965
+2016,9,"Sant Andreu",61,"la Sagrera","75% i més",455
+2016,9,"Sant Andreu",62,"el Congrés i els Indians","75% i més",298
+2016,9,"Sant Andreu",63,"Navas","75% i més",352
+2016,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","75% i més",633
+2016,10,"Sant Martí",65,"el Clot","75% i més",367
+2016,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","75% i més",232
+2016,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","75% i més",83
+2016,10,"Sant Martí",68,"el Poblenou","75% i més",460
+2016,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","75% i més",155
+2016,10,"Sant Martí",70,"el Besòs i el Maresme","75% i més",445
+2016,10,"Sant Martí",71,"Provençals del Poblenou","75% i més",318
+2016,10,"Sant Martí",72,"Sant Martí de Provençals","75% i més",496

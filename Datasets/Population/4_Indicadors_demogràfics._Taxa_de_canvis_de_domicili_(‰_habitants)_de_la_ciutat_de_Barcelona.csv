@@ -1,0 +1,146 @@
+"﻿""Any""","Codi_Districte","Nom_Districte","Codi_Barri","Nom_Barri","Moviment","Taxa_mil_hab"
+2019,1,"Ciutat Vella",1,"el Raval","Alta",104.4
+2019,1,"Ciutat Vella",2,"el Barri Gòtic","Alta",121.2
+2019,1,"Ciutat Vella",3,"la Barceloneta","Alta",85.1
+2019,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Alta",81.0
+2019,2,"Eixample",5,"el Fort Pienc","Alta",60.1
+2019,2,"Eixample",6,"la Sagrada Família","Alta",60.8
+2019,2,"Eixample",7,"la Dreta de l'Eixample","Alta",57.7
+2019,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Alta",58.1
+2019,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Alta",55.6
+2019,2,"Eixample",10,"Sant Antoni","Alta",68.0
+2019,3,"Sants-Montjuïc",11,"el Poble Sec","Alta",74.0
+2019,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Alta",68.6
+2019,3,"Sants-Montjuïc",13,"la Marina de Port","Alta",48.3
+2019,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Alta",51.1
+2019,3,"Sants-Montjuïc",15,"Hostafrancs","Alta",62.0
+2019,3,"Sants-Montjuïc",16,"la Bordeta","Alta",51.7
+2019,3,"Sants-Montjuïc",17,"Sants - Badal","Alta",56.3
+2019,3,"Sants-Montjuïc",18,"Sants","Alta",64.7
+2019,4,"Les Corts",19,"les Corts","Alta",47.0
+2019,4,"Les Corts",20,"la Maternitat i Sant Ramon","Alta",45.6
+2019,4,"Les Corts",21,"Pedralbes","Alta",49.6
+2019,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Alta",52.1
+2019,5,"Sarrià-Sant Gervasi",23,"Sarrià","Alta",60.2
+2019,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Alta",54.4
+2019,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Alta",53.7
+2019,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Alta",53.5
+2019,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Alta",63.9
+2019,6,"Gràcia",28,"Vallcarca i els Penitents","Alta",59.1
+2019,6,"Gràcia",29,"el Coll","Alta",65.0
+2019,6,"Gràcia",30,"la Salut","Alta",62.6
+2019,6,"Gràcia",31,"la Vila de Gràcia","Alta",63.1
+2019,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Alta",54.7
+2019,7,"Horta-Guinardó",33,"el Baix Guinardó","Alta",65.8
+2019,7,"Horta-Guinardó",34,"Can Baró","Alta",62.1
+2019,7,"Horta-Guinardó",35,"el Guinardó","Alta",61.2
+2019,7,"Horta-Guinardó",36,"la Font d'en Fargues","Alta",49.8
+2019,7,"Horta-Guinardó",37,"el Carmel","Alta",58.6
+2019,7,"Horta-Guinardó",38,"la Teixonera","Alta",56.9
+2019,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Alta",67.9
+2019,7,"Horta-Guinardó",40,"Montbau","Alta",61.1
+2019,7,"Horta-Guinardó",41,"la Vall d'Hebron","Alta",53.2
+2019,7,"Horta-Guinardó",42,"la Clota","Alta",57.1
+2019,7,"Horta-Guinardó",43,"Horta","Alta",60.9
+2019,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Alta",58.0
+2019,8,"Nou Barris",45,"Porta","Alta",70.2
+2019,8,"Nou Barris",46,"el Turó de la Peira","Alta",84.3
+2019,8,"Nou Barris",47,"Can Peguera","Alta",37.6
+2019,8,"Nou Barris",48,"la Guineueta","Alta",50.3
+2019,8,"Nou Barris",49,"Canyelles","Alta",35.3
+2019,8,"Nou Barris",50,"les Roquetes","Alta",65.6
+2019,8,"Nou Barris",51,"Verdun","Alta",73.3
+2019,8,"Nou Barris",52,"la Prosperitat","Alta",57.3
+2019,8,"Nou Barris",53,"la Trinitat Nova","Alta",70.1
+2019,8,"Nou Barris",54,"Torre Baró","Alta",42.9
+2019,8,"Nou Barris",55,"Ciutat Meridiana","Alta",70.9
+2019,8,"Nou Barris",56,"Vallbona","Alta",42.7
+2019,9,"Sant Andreu",57,"la Trinitat Vella","Alta",65.0
+2019,9,"Sant Andreu",58,"Baró de Viver","Alta",37.7
+2019,9,"Sant Andreu",59,"el Bon Pastor","Alta",63.0
+2019,9,"Sant Andreu",60,"Sant Andreu","Alta",47.8
+2019,9,"Sant Andreu",61,"la Sagrera","Alta",52.5
+2019,9,"Sant Andreu",62,"el Congrés i els Indians","Alta",55.2
+2019,9,"Sant Andreu",63,"Navas","Alta",50.5
+2019,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Alta",62.0
+2019,10,"Sant Martí",65,"el Clot","Alta",50.4
+2019,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Alta",63.6
+2019,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Alta",45.1
+2019,10,"Sant Martí",68,"el Poblenou","Alta",62.8
+2019,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Alta",42.7
+2019,10,"Sant Martí",70,"el Besòs i el Maresme","Alta",72.0
+2019,10,"Sant Martí",71,"Provençals del Poblenou","Alta",53.2
+2019,10,"Sant Martí",72,"Sant Martí de Provençals","Alta",45.7
+2019,10,"Sant Martí",73,"la Verneda i la Pau","Alta",46.2
+2019,1,"Ciutat Vella",1,"el Raval","Baixa",127.8
+2019,1,"Ciutat Vella",2,"el Barri Gòtic","Baixa",116.1
+2019,1,"Ciutat Vella",3,"la Barceloneta","Baixa",97.5
+2019,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Baixa",96.5
+2019,2,"Eixample",5,"el Fort Pienc","Baixa",63.7
+2019,2,"Eixample",6,"la Sagrada Família","Baixa",64.8
+2019,2,"Eixample",7,"la Dreta de l'Eixample","Baixa",69.3
+2019,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Baixa",69.0
+2019,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Baixa",61.8
+2019,2,"Eixample",10,"Sant Antoni","Baixa",66.1
+2019,3,"Sants-Montjuïc",11,"el Poble Sec","Baixa",84.9
+2019,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Baixa",37.6
+2019,3,"Sants-Montjuïc",13,"la Marina de Port","Baixa",43.4
+2019,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Baixa",56.4
+2019,3,"Sants-Montjuïc",15,"Hostafrancs","Baixa",64.3
+2019,3,"Sants-Montjuïc",16,"la Bordeta","Baixa",40.5
+2019,3,"Sants-Montjuïc",17,"Sants - Badal","Baixa",49.4
+2019,3,"Sants-Montjuïc",18,"Sants","Baixa",62.8
+2019,4,"Les Corts",19,"les Corts","Baixa",47.8
+2019,4,"Les Corts",20,"la Maternitat i Sant Ramon","Baixa",40.9
+2019,4,"Les Corts",21,"Pedralbes","Baixa",50.3
+2019,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Baixa",40.4
+2019,5,"Sarrià-Sant Gervasi",23,"Sarrià","Baixa",53.6
+2019,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Baixa",48.9
+2019,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Baixa",58.9
+2019,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Baixa",52.8
+2019,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Baixa",58.2
+2019,6,"Gràcia",28,"Vallcarca i els Penitents","Baixa",49.4
+2019,6,"Gràcia",29,"el Coll","Baixa",56.6
+2019,6,"Gràcia",30,"la Salut","Baixa",55.6
+2019,6,"Gràcia",31,"la Vila de Gràcia","Baixa",72.0
+2019,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Baixa",58.4
+2019,7,"Horta-Guinardó",33,"el Baix Guinardó","Baixa",57.9
+2019,7,"Horta-Guinardó",34,"Can Baró","Baixa",54.0
+2019,7,"Horta-Guinardó",35,"el Guinardó","Baixa",59.6
+2019,7,"Horta-Guinardó",36,"la Font d'en Fargues","Baixa",41.8
+2019,7,"Horta-Guinardó",37,"el Carmel","Baixa",54.6
+2019,7,"Horta-Guinardó",38,"la Teixonera","Baixa",53.4
+2019,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Baixa",56.2
+2019,7,"Horta-Guinardó",40,"Montbau","Baixa",53.4
+2019,7,"Horta-Guinardó",41,"la Vall d'Hebron","Baixa",36.1
+2019,7,"Horta-Guinardó",42,"la Clota","Baixa",51.2
+2019,7,"Horta-Guinardó",43,"Horta","Baixa",52.7
+2019,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Baixa",54.5
+2019,8,"Nou Barris",45,"Porta","Baixa",62.9
+2019,8,"Nou Barris",46,"el Turó de la Peira","Baixa",73.1
+2019,8,"Nou Barris",47,"Can Peguera","Baixa",31.0
+2019,8,"Nou Barris",48,"la Guineueta","Baixa",43.6
+2019,8,"Nou Barris",49,"Canyelles","Baixa",29.8
+2019,8,"Nou Barris",50,"les Roquetes","Baixa",66.2
+2019,8,"Nou Barris",51,"Verdun","Baixa",69.0
+2019,8,"Nou Barris",52,"la Prosperitat","Baixa",57.2
+2019,8,"Nou Barris",53,"la Trinitat Nova","Baixa",63.4
+2019,8,"Nou Barris",54,"Torre Baró","Baixa",46.3
+2019,8,"Nou Barris",55,"Ciutat Meridiana","Baixa",69.5
+2019,8,"Nou Barris",56,"Vallbona","Baixa",32.7
+2019,9,"Sant Andreu",57,"la Trinitat Vella","Baixa",63.5
+2019,9,"Sant Andreu",58,"Baró de Viver","Baixa",37.4
+2019,9,"Sant Andreu",59,"el Bon Pastor","Baixa",51.7
+2019,9,"Sant Andreu",60,"Sant Andreu","Baixa",40.2
+2019,9,"Sant Andreu",61,"la Sagrera","Baixa",49.2
+2019,9,"Sant Andreu",62,"el Congrés i els Indians","Baixa",52.9
+2019,9,"Sant Andreu",63,"Navas","Baixa",48.7
+2019,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Baixa",63.5
+2019,10,"Sant Martí",65,"el Clot","Baixa",56.0
+2019,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Baixa",55.8
+2019,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Baixa",46.1
+2019,10,"Sant Martí",68,"el Poblenou","Baixa",58.7
+2019,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Baixa",51.2
+2019,10,"Sant Martí",70,"el Besòs i el Maresme","Baixa",69.8
+2019,10,"Sant Martí",71,"Provençals del Poblenou","Baixa",46.5
+2019,10,"Sant Martí",72,"Sant Martí de Provençals","Baixa",44.9

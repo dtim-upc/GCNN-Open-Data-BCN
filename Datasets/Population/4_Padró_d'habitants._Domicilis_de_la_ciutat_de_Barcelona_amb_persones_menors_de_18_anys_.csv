@@ -1,0 +1,365 @@
+"﻿""Any""","Codi_districte","Nom_districte","Codi_barri","Nom_barri","Persones","Nombre"
+2020,1,"Ciutat Vella",1,"el Raval","Cap menor de 18 anys",13488
+2020,1,"Ciutat Vella",2,"el Barri Gòtic","Cap menor de 18 anys",5730
+2020,1,"Ciutat Vella",3,"la Barceloneta","Cap menor de 18 anys",6081
+2020,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Cap menor de 18 anys",8618
+2020,2,"Eixample",5,"el Fort Pienc","Cap menor de 18 anys",10101
+2020,2,"Eixample",6,"la Sagrada Família","Cap menor de 18 anys",17717
+2020,2,"Eixample",7,"la Dreta de l'Eixample","Cap menor de 18 anys",14678
+2020,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Cap menor de 18 anys",14759
+2020,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Cap menor de 18 anys",19984
+2020,2,"Eixample",10,"Sant Antoni","Cap menor de 18 anys",13190
+2020,3,"Sants-Montjuïc",11,"el Poble Sec","Cap menor de 18 anys",12618
+2020,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Cap menor de 18 anys",378
+2020,3,"Sants-Montjuïc",13,"la Marina de Port","Cap menor de 18 anys",8832
+2020,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Cap menor de 18 anys",3447
+2020,3,"Sants-Montjuïc",15,"Hostafrancs","Cap menor de 18 anys",5335
+2020,3,"Sants-Montjuïc",16,"la Bordeta","Cap menor de 18 anys",6051
+2020,3,"Sants-Montjuïc",17,"Sants - Badal","Cap menor de 18 anys",7912
+2020,3,"Sants-Montjuïc",18,"Sants","Cap menor de 18 anys",13576
+2020,4,"Les Corts",19,"les Corts","Cap menor de 18 anys",14938
+2020,4,"Les Corts",20,"la Maternitat i Sant Ramon","Cap menor de 18 anys",7521
+2020,4,"Les Corts",21,"Pedralbes","Cap menor de 18 anys",2985
+2020,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Cap menor de 18 anys",1019
+2020,5,"Sarrià-Sant Gervasi",23,"Sarrià","Cap menor de 18 anys",5990
+2020,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Cap menor de 18 anys",3823
+2020,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Cap menor de 18 anys",6786
+2020,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Cap menor de 18 anys",13951
+2020,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Cap menor de 18 anys",9309
+2020,6,"Gràcia",28,"Vallcarca i els Penitents","Cap menor de 18 anys",4979
+2020,6,"Gràcia",29,"el Coll","Cap menor de 18 anys",2407
+2020,6,"Gràcia",30,"la Salut","Cap menor de 18 anys",4262
+2020,6,"Gràcia",31,"la Vila de Gràcia","Cap menor de 18 anys",18373
+2020,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Cap menor de 18 anys",11908
+2020,7,"Horta-Guinardó",33,"el Baix Guinardó","Cap menor de 18 anys",8663
+2020,7,"Horta-Guinardó",34,"Can Baró","Cap menor de 18 anys",3026
+2020,7,"Horta-Guinardó",35,"el Guinardó","Cap menor de 18 anys",11956
+2020,7,"Horta-Guinardó",36,"la Font d'en Fargues","Cap menor de 18 anys",2759
+2020,7,"Horta-Guinardó",37,"el Carmel","Cap menor de 18 anys",9680
+2020,7,"Horta-Guinardó",38,"la Teixonera","Cap menor de 18 anys",3697
+2020,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Cap menor de 18 anys",2314
+2020,7,"Horta-Guinardó",40,"Montbau","Cap menor de 18 anys",1658
+2020,7,"Horta-Guinardó",41,"la Vall d'Hebron","Cap menor de 18 anys",1806
+2020,7,"Horta-Guinardó",42,"la Clota","Cap menor de 18 anys",189
+2020,7,"Horta-Guinardó",43,"Horta","Cap menor de 18 anys",8118
+2020,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Cap menor de 18 anys",8073
+2020,8,"Nou Barris",45,"Porta","Cap menor de 18 anys",7849
+2020,8,"Nou Barris",46,"el Turó de la Peira","Cap menor de 18 anys",4674
+2020,8,"Nou Barris",47,"Can Peguera","Cap menor de 18 anys",722
+2020,8,"Nou Barris",48,"la Guineueta","Cap menor de 18 anys",4753
+2020,8,"Nou Barris",49,"Canyelles","Cap menor de 18 anys",2196
+2020,8,"Nou Barris",50,"les Roquetes","Cap menor de 18 anys",4183
+2020,8,"Nou Barris",51,"Verdun","Cap menor de 18 anys",3826
+2020,8,"Nou Barris",52,"la Prosperitat","Cap menor de 18 anys",8141
+2020,8,"Nou Barris",53,"la Trinitat Nova","Cap menor de 18 anys",2140
+2020,8,"Nou Barris",54,"Torre Baró","Cap menor de 18 anys",620
+2020,8,"Nou Barris",55,"Ciutat Meridiana","Cap menor de 18 anys",2461
+2020,8,"Nou Barris",56,"Vallbona","Cap menor de 18 anys",320
+2020,9,"Sant Andreu",57,"la Trinitat Vella","Cap menor de 18 anys",2357
+2020,9,"Sant Andreu",58,"Baró de Viver","Cap menor de 18 anys",699
+2020,9,"Sant Andreu",59,"el Bon Pastor","Cap menor de 18 anys",2993
+2020,9,"Sant Andreu",60,"Sant Andreu","Cap menor de 18 anys",17875
+2020,9,"Sant Andreu",61,"la Sagrera","Cap menor de 18 anys",9135
+2020,9,"Sant Andreu",62,"el Congrés i els Indians","Cap menor de 18 anys",4560
+2020,9,"Sant Andreu",63,"Navas","Cap menor de 18 anys",6997
+2020,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Cap menor de 18 anys",13148
+2020,10,"Sant Martí",65,"el Clot","Cap menor de 18 anys",8230
+2020,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Cap menor de 18 anys",4963
+2020,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Cap menor de 18 anys",2497
+2020,10,"Sant Martí",68,"el Poblenou","Cap menor de 18 anys",9764
+2020,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Cap menor de 18 anys",3544
+2020,10,"Sant Martí",70,"el Besòs i el Maresme","Cap menor de 18 anys",6093
+2020,10,"Sant Martí",71,"Provençals del Poblenou","Cap menor de 18 anys",6063
+2020,10,"Sant Martí",72,"Sant Martí de Provençals","Cap menor de 18 anys",8177
+2020,10,"Sant Martí",73,"la Verneda i la Pau","Cap menor de 18 anys",8800
+2020,1,"Ciutat Vella",1,"el Raval","1 menor",1969
+2020,1,"Ciutat Vella",2,"el Barri Gòtic","1 menor",516
+2020,1,"Ciutat Vella",3,"la Barceloneta","1 menor",561
+2020,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","1 menor",931
+2020,2,"Eixample",5,"el Fort Pienc","1 menor",1513
+2020,2,"Eixample",6,"la Sagrada Família","1 menor",2473
+2020,2,"Eixample",7,"la Dreta de l'Eixample","1 menor",2053
+2020,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","1 menor",1872
+2020,2,"Eixample",9,"la Nova Esquerra de l'Eixample","1 menor",2651
+2020,2,"Eixample",10,"Sant Antoni","1 menor",1797
+2020,3,"Sants-Montjuïc",11,"el Poble Sec","1 menor",1921
+2020,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","1 menor",62
+2020,3,"Sants-Montjuïc",13,"la Marina de Port","1 menor",1779
+2020,3,"Sants-Montjuïc",14,"la Font de la Guatlla","1 menor",496
+2020,3,"Sants-Montjuïc",15,"Hostafrancs","1 menor",765
+2020,3,"Sants-Montjuïc",16,"la Bordeta","1 menor",1068
+2020,3,"Sants-Montjuïc",17,"Sants - Badal","1 menor",1252
+2020,3,"Sants-Montjuïc",18,"Sants","1 menor",2124
+2020,4,"Les Corts",19,"les Corts","1 menor",2151
+2020,4,"Les Corts",20,"la Maternitat i Sant Ramon","1 menor",1126
+2020,4,"Les Corts",21,"Pedralbes","1 menor",487
+2020,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","1 menor",260
+2020,5,"Sarrià-Sant Gervasi",23,"Sarrià","1 menor",1138
+2020,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","1 menor",633
+2020,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","1 menor",1112
+2020,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","1 menor",2208
+2020,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","1 menor",1533
+2020,6,"Gràcia",28,"Vallcarca i els Penitents","1 menor",829
+2020,6,"Gràcia",29,"el Coll","1 menor",420
+2020,6,"Gràcia",30,"la Salut","1 menor",635
+2020,6,"Gràcia",31,"la Vila de Gràcia","1 menor",2559
+2020,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","1 menor",1710
+2020,7,"Horta-Guinardó",33,"el Baix Guinardó","1 menor",1252
+2020,7,"Horta-Guinardó",34,"Can Baró","1 menor",494
+2020,7,"Horta-Guinardó",35,"el Guinardó","1 menor",2069
+2020,7,"Horta-Guinardó",36,"la Font d'en Fargues","1 menor",541
+2020,7,"Horta-Guinardó",37,"el Carmel","1 menor",1865
+2020,7,"Horta-Guinardó",38,"la Teixonera","1 menor",720
+2020,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","1 menor",382
+2020,7,"Horta-Guinardó",40,"Montbau","1 menor",295
+2020,7,"Horta-Guinardó",41,"la Vall d'Hebron","1 menor",317
+2020,7,"Horta-Guinardó",42,"la Clota","1 menor",60
+2020,7,"Horta-Guinardó",43,"Horta","1 menor",1436
+2020,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","1 menor",1430
+2020,8,"Nou Barris",45,"Porta","1 menor",1416
+2020,8,"Nou Barris",46,"el Turó de la Peira","1 menor",907
+2020,8,"Nou Barris",47,"Can Peguera","1 menor",99
+2020,8,"Nou Barris",48,"la Guineueta","1 menor",860
+2020,8,"Nou Barris",49,"Canyelles","1 menor",337
+2020,8,"Nou Barris",50,"les Roquetes","1 menor",995
+2020,8,"Nou Barris",51,"Verdun","1 menor",771
+2020,8,"Nou Barris",52,"la Prosperitat","1 menor",1604
+2020,8,"Nou Barris",53,"la Trinitat Nova","1 menor",433
+2020,8,"Nou Barris",54,"Torre Baró","1 menor",163
+2020,8,"Nou Barris",55,"Ciutat Meridiana","1 menor",638
+2020,8,"Nou Barris",56,"Vallbona","1 menor",77
+2020,9,"Sant Andreu",57,"la Trinitat Vella","1 menor",598
+2020,9,"Sant Andreu",58,"Baró de Viver","1 menor",149
+2020,9,"Sant Andreu",59,"el Bon Pastor","1 menor",729
+2020,9,"Sant Andreu",60,"Sant Andreu","1 menor",3399
+2020,9,"Sant Andreu",61,"la Sagrera","1 menor",1525
+2020,9,"Sant Andreu",62,"el Congrés i els Indians","1 menor",822
+2020,9,"Sant Andreu",63,"Navas","1 menor",1247
+2020,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","1 menor",1974
+2020,10,"Sant Martí",65,"el Clot","1 menor",1403
+2020,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","1 menor",829
+2020,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","1 menor",556
+2020,10,"Sant Martí",68,"el Poblenou","1 menor",2104
+2020,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","1 menor",922
+2020,10,"Sant Martí",70,"el Besòs i el Maresme","1 menor",1117
+2020,10,"Sant Martí",71,"Provençals del Poblenou","1 menor",1318
+2020,10,"Sant Martí",72,"Sant Martí de Provençals","1 menor",1375
+2020,10,"Sant Martí",73,"la Verneda i la Pau","1 menor",1475
+2020,1,"Ciutat Vella",1,"el Raval","2 menors",1235
+2020,1,"Ciutat Vella",2,"el Barri Gòtic","2 menors",280
+2020,1,"Ciutat Vella",3,"la Barceloneta","2 menors",288
+2020,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","2 menors",513
+2020,2,"Eixample",5,"el Fort Pienc","2 menors",999
+2020,2,"Eixample",6,"la Sagrada Família","2 menors",1525
+2020,2,"Eixample",7,"la Dreta de l'Eixample","2 menors",1426
+2020,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","2 menors",1261
+2020,2,"Eixample",9,"la Nova Esquerra de l'Eixample","2 menors",1770
+2020,2,"Eixample",10,"Sant Antoni","2 menors",1088
+2020,3,"Sants-Montjuïc",11,"el Poble Sec","2 menors",1040
+2020,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","2 menors",39
+2020,3,"Sants-Montjuïc",13,"la Marina de Port","2 menors",1125
+2020,3,"Sants-Montjuïc",14,"la Font de la Guatlla","2 menors",274
+2020,3,"Sants-Montjuïc",15,"Hostafrancs","2 menors",478
+2020,3,"Sants-Montjuïc",16,"la Bordeta","2 menors",654
+2020,3,"Sants-Montjuïc",17,"Sants - Badal","2 menors",736
+2020,3,"Sants-Montjuïc",18,"Sants","2 menors",1259
+2020,4,"Les Corts",19,"les Corts","2 menors",1727
+2020,4,"Les Corts",20,"la Maternitat i Sant Ramon","2 menors",892
+2020,4,"Les Corts",21,"Pedralbes","2 menors",494
+2020,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","2 menors",253
+2020,5,"Sarrià-Sant Gervasi",23,"Sarrià","2 menors",1249
+2020,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","2 menors",727
+2020,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","2 menors",1115
+2020,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","2 menors",1940
+2020,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","2 menors",1227
+2020,6,"Gràcia",28,"Vallcarca i els Penitents","2 menors",657
+2020,6,"Gràcia",29,"el Coll","2 menors",284
+2020,6,"Gràcia",30,"la Salut","2 menors",472
+2020,6,"Gràcia",31,"la Vila de Gràcia","2 menors",1630
+2020,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","2 menors",1225
+2020,7,"Horta-Guinardó",33,"el Baix Guinardó","2 menors",827
+2020,7,"Horta-Guinardó",34,"Can Baró","2 menors",302
+2020,7,"Horta-Guinardó",35,"el Guinardó","2 menors",1322
+2020,7,"Horta-Guinardó",36,"la Font d'en Fargues","2 menors",405
+2020,7,"Horta-Guinardó",37,"el Carmel","2 menors",1159
+2020,7,"Horta-Guinardó",38,"la Teixonera","2 menors",407
+2020,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","2 menors",234
+2020,7,"Horta-Guinardó",40,"Montbau","2 menors",159
+2020,7,"Horta-Guinardó",41,"la Vall d'Hebron","2 menors",226
+2020,7,"Horta-Guinardó",42,"la Clota","2 menors",32
+2020,7,"Horta-Guinardó",43,"Horta","2 menors",978
+2020,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","2 menors",902
+2020,8,"Nou Barris",45,"Porta","2 menors",836
+2020,8,"Nou Barris",46,"el Turó de la Peira","2 menors",547
+2020,8,"Nou Barris",47,"Can Peguera","2 menors",80
+2020,8,"Nou Barris",48,"la Guineueta","2 menors",540
+2020,8,"Nou Barris",49,"Canyelles","2 menors",237
+2020,8,"Nou Barris",50,"les Roquetes","2 menors",630
+2020,8,"Nou Barris",51,"Verdun","2 menors",415
+2020,8,"Nou Barris",52,"la Prosperitat","2 menors",882
+2020,8,"Nou Barris",53,"la Trinitat Nova","2 menors",263
+2020,8,"Nou Barris",54,"Torre Baró","2 menors",135
+2020,8,"Nou Barris",55,"Ciutat Meridiana","2 menors",425
+2020,8,"Nou Barris",56,"Vallbona","2 menors",61
+2020,9,"Sant Andreu",57,"la Trinitat Vella","2 menors",412
+2020,9,"Sant Andreu",58,"Baró de Viver","2 menors",99
+2020,9,"Sant Andreu",59,"el Bon Pastor","2 menors",596
+2020,9,"Sant Andreu",60,"Sant Andreu","2 menors",2358
+2020,9,"Sant Andreu",61,"la Sagrera","2 menors",1024
+2020,9,"Sant Andreu",62,"el Congrés i els Indians","2 menors",521
+2020,9,"Sant Andreu",63,"Navas","2 menors",707
+2020,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","2 menors",1182
+2020,10,"Sant Martí",65,"el Clot","2 menors",984
+2020,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","2 menors",551
+2020,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","2 menors",407
+2020,10,"Sant Martí",68,"el Poblenou","2 menors",1591
+2020,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","2 menors",758
+2020,10,"Sant Martí",70,"el Besòs i el Maresme","2 menors",758
+2020,10,"Sant Martí",71,"Provençals del Poblenou","2 menors",868
+2020,10,"Sant Martí",72,"Sant Martí de Provençals","2 menors",905
+2020,10,"Sant Martí",73,"la Verneda i la Pau","2 menors",1010
+2020,1,"Ciutat Vella",1,"el Raval","3 menors",461
+2020,1,"Ciutat Vella",2,"el Barri Gòtic","3 menors",69
+2020,1,"Ciutat Vella",3,"la Barceloneta","3 menors",53
+2020,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","3 menors",102
+2020,2,"Eixample",5,"el Fort Pienc","3 menors",190
+2020,2,"Eixample",6,"la Sagrada Família","3 menors",214
+2020,2,"Eixample",7,"la Dreta de l'Eixample","3 menors",311
+2020,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","3 menors",254
+2020,2,"Eixample",9,"la Nova Esquerra de l'Eixample","3 menors",266
+2020,2,"Eixample",10,"Sant Antoni","3 menors",166
+2020,3,"Sants-Montjuïc",11,"el Poble Sec","3 menors",272
+2020,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","3 menors",11
+2020,3,"Sants-Montjuïc",13,"la Marina de Port","3 menors",237
+2020,3,"Sants-Montjuïc",14,"la Font de la Guatlla","3 menors",42
+2020,3,"Sants-Montjuïc",15,"Hostafrancs","3 menors",93
+2020,3,"Sants-Montjuïc",16,"la Bordeta","3 menors",88
+2020,3,"Sants-Montjuïc",17,"Sants - Badal","3 menors",138
+2020,3,"Sants-Montjuïc",18,"Sants","3 menors",207
+2020,4,"Les Corts",19,"les Corts","3 menors",295
+2020,4,"Les Corts",20,"la Maternitat i Sant Ramon","3 menors",144
+2020,4,"Les Corts",21,"Pedralbes","3 menors",203
+2020,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","3 menors",67
+2020,5,"Sarrià-Sant Gervasi",23,"Sarrià","3 menors",387
+2020,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","3 menors",318
+2020,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","3 menors",374
+2020,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","3 menors",580
+2020,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","3 menors",279
+2020,6,"Gràcia",28,"Vallcarca i els Penitents","3 menors",114
+2020,6,"Gràcia",29,"el Coll","3 menors",45
+2020,6,"Gràcia",30,"la Salut","3 menors",88
+2020,6,"Gràcia",31,"la Vila de Gràcia","3 menors",281
+2020,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","3 menors",155
+2020,7,"Horta-Guinardó",33,"el Baix Guinardó","3 menors",120
+2020,7,"Horta-Guinardó",34,"Can Baró","3 menors",68
+2020,7,"Horta-Guinardó",35,"el Guinardó","3 menors",177
+2020,7,"Horta-Guinardó",36,"la Font d'en Fargues","3 menors",59
+2020,7,"Horta-Guinardó",37,"el Carmel","3 menors",191
+2020,7,"Horta-Guinardó",38,"la Teixonera","3 menors",47
+2020,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","3 menors",51
+2020,7,"Horta-Guinardó",40,"Montbau","3 menors",21
+2020,7,"Horta-Guinardó",41,"la Vall d'Hebron","3 menors",23
+2020,7,"Horta-Guinardó",42,"la Clota","3 menors",2
+2020,7,"Horta-Guinardó",43,"Horta","3 menors",155
+2020,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","3 menors",124
+2020,8,"Nou Barris",45,"Porta","3 menors",154
+2020,8,"Nou Barris",46,"el Turó de la Peira","3 menors",165
+2020,8,"Nou Barris",47,"Can Peguera","3 menors",19
+2020,8,"Nou Barris",48,"la Guineueta","3 menors",61
+2020,8,"Nou Barris",49,"Canyelles","3 menors",30
+2020,8,"Nou Barris",50,"les Roquetes","3 menors",170
+2020,8,"Nou Barris",51,"Verdun","3 menors",98
+2020,8,"Nou Barris",52,"la Prosperitat","3 menors",157
+2020,8,"Nou Barris",53,"la Trinitat Nova","3 menors",85
+2020,8,"Nou Barris",54,"Torre Baró","3 menors",44
+2020,8,"Nou Barris",55,"Ciutat Meridiana","3 menors",154
+2020,8,"Nou Barris",56,"Vallbona","3 menors",20
+2020,9,"Sant Andreu",57,"la Trinitat Vella","3 menors",131
+2020,9,"Sant Andreu",58,"Baró de Viver","3 menors",38
+2020,9,"Sant Andreu",59,"el Bon Pastor","3 menors",125
+2020,9,"Sant Andreu",60,"Sant Andreu","3 menors",308
+2020,9,"Sant Andreu",61,"la Sagrera","3 menors",153
+2020,9,"Sant Andreu",62,"el Congrés i els Indians","3 menors",70
+2020,9,"Sant Andreu",63,"Navas","3 menors",111
+2020,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","3 menors",171
+2020,10,"Sant Martí",65,"el Clot","3 menors",141
+2020,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","3 menors",78
+2020,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","3 menors",73
+2020,10,"Sant Martí",68,"el Poblenou","3 menors",260
+2020,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","3 menors",120
+2020,10,"Sant Martí",70,"el Besòs i el Maresme","3 menors",275
+2020,10,"Sant Martí",71,"Provençals del Poblenou","3 menors",137
+2020,10,"Sant Martí",72,"Sant Martí de Provençals","3 menors",140
+2020,10,"Sant Martí",73,"la Verneda i la Pau","3 menors",159
+2020,1,"Ciutat Vella",1,"el Raval","4 o més menors",231
+2020,1,"Ciutat Vella",2,"el Barri Gòtic","4 o més menors",22
+2020,1,"Ciutat Vella",3,"la Barceloneta","4 o més menors",11
+2020,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","4 o més menors",44
+2020,2,"Eixample",5,"el Fort Pienc","4 o més menors",36
+2020,2,"Eixample",6,"la Sagrada Família","4 o més menors",39
+2020,2,"Eixample",7,"la Dreta de l'Eixample","4 o més menors",48
+2020,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","4 o més menors",37
+2020,2,"Eixample",9,"la Nova Esquerra de l'Eixample","4 o més menors",48
+2020,2,"Eixample",10,"Sant Antoni","4 o més menors",60
+2020,3,"Sants-Montjuïc",11,"el Poble Sec","4 o més menors",110
+2020,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","4 o més menors",2
+2020,3,"Sants-Montjuïc",13,"la Marina de Port","4 o més menors",62
+2020,3,"Sants-Montjuïc",14,"la Font de la Guatlla","4 o més menors",10
+2020,3,"Sants-Montjuïc",15,"Hostafrancs","4 o més menors",25
+2020,3,"Sants-Montjuïc",16,"la Bordeta","4 o més menors",22
+2020,3,"Sants-Montjuïc",17,"Sants - Badal","4 o més menors",29
+2020,3,"Sants-Montjuïc",18,"Sants","4 o més menors",53
+2020,4,"Les Corts",19,"les Corts","4 o més menors",41
+2020,4,"Les Corts",20,"la Maternitat i Sant Ramon","4 o més menors",22
+2020,4,"Les Corts",21,"Pedralbes","4 o més menors",35
+2020,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","4 o més menors",14
+2020,5,"Sarrià-Sant Gervasi",23,"Sarrià","4 o més menors",108
+2020,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","4 o més menors",101
+2020,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","4 o més menors",101
+2020,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","4 o més menors",144
+2020,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","4 o més menors",67
+2020,6,"Gràcia",28,"Vallcarca i els Penitents","4 o més menors",25
+2020,6,"Gràcia",29,"el Coll","4 o més menors",7
+2020,6,"Gràcia",30,"la Salut","4 o més menors",21
+2020,6,"Gràcia",31,"la Vila de Gràcia","4 o més menors",32
+2020,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","4 o més menors",21
+2020,7,"Horta-Guinardó",33,"el Baix Guinardó","4 o més menors",27
+2020,7,"Horta-Guinardó",34,"Can Baró","4 o més menors",9
+2020,7,"Horta-Guinardó",35,"el Guinardó","4 o més menors",48
+2020,7,"Horta-Guinardó",36,"la Font d'en Fargues","4 o més menors",11
+2020,7,"Horta-Guinardó",37,"el Carmel","4 o més menors",52
+2020,7,"Horta-Guinardó",38,"la Teixonera","4 o més menors",15
+2020,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","4 o més menors",12
+2020,7,"Horta-Guinardó",40,"Montbau","4 o més menors",7
+2020,7,"Horta-Guinardó",41,"la Vall d'Hebron","4 o més menors",0
+2020,7,"Horta-Guinardó",42,"la Clota","4 o més menors",1
+2020,7,"Horta-Guinardó",43,"Horta","4 o més menors",33
+2020,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","4 o més menors",25
+2020,8,"Nou Barris",45,"Porta","4 o més menors",38
+2020,8,"Nou Barris",46,"el Turó de la Peira","4 o més menors",62
+2020,8,"Nou Barris",47,"Can Peguera","4 o més menors",10
+2020,8,"Nou Barris",48,"la Guineueta","4 o més menors",19
+2020,8,"Nou Barris",49,"Canyelles","4 o més menors",5
+2020,8,"Nou Barris",50,"les Roquetes","4 o més menors",48
+2020,8,"Nou Barris",51,"Verdun","4 o més menors",31
+2020,8,"Nou Barris",52,"la Prosperitat","4 o més menors",46
+2020,8,"Nou Barris",53,"la Trinitat Nova","4 o més menors",20
+2020,8,"Nou Barris",54,"Torre Baró","4 o més menors",10
+2020,8,"Nou Barris",55,"Ciutat Meridiana","4 o més menors",66
+2020,8,"Nou Barris",56,"Vallbona","4 o més menors",10
+2020,9,"Sant Andreu",57,"la Trinitat Vella","4 o més menors",67
+2020,9,"Sant Andreu",58,"Baró de Viver","4 o més menors",10
+2020,9,"Sant Andreu",59,"el Bon Pastor","4 o més menors",55
+2020,9,"Sant Andreu",60,"Sant Andreu","4 o més menors",44
+2020,9,"Sant Andreu",61,"la Sagrera","4 o més menors",41
+2020,9,"Sant Andreu",62,"el Congrés i els Indians","4 o més menors",17
+2020,9,"Sant Andreu",63,"Navas","4 o més menors",26
+2020,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","4 o més menors",45
+2020,10,"Sant Martí",65,"el Clot","4 o més menors",28
+2020,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","4 o més menors",28
+2020,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","4 o més menors",12
+2020,10,"Sant Martí",68,"el Poblenou","4 o més menors",41
+2020,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","4 o més menors",24
+2020,10,"Sant Martí",70,"el Besòs i el Maresme","4 o més menors",122
+2020,10,"Sant Martí",71,"Provençals del Poblenou","4 o més menors",33
+2020,10,"Sant Martí",72,"Sant Martí de Provençals","4 o més menors",32

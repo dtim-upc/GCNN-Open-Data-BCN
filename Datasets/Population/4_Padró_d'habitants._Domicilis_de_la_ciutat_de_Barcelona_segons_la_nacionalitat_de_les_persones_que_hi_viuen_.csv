@@ -1,0 +1,219 @@
+"﻿""Any""","Codi_districte","Nom_districte","Codi_barri","Nom_barri","Nacionalitat","Nombre"
+2020,1,"Ciutat Vella",1,"el Raval","Tots espanyols",7828
+2020,1,"Ciutat Vella",2,"el Barri Gòtic","Tots espanyols",3016
+2020,1,"Ciutat Vella",3,"la Barceloneta","Tots espanyols",3829
+2020,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Tots espanyols",5136
+2020,2,"Eixample",5,"el Fort Pienc","Tots espanyols",9349
+2020,2,"Eixample",6,"la Sagrada Família","Tots espanyols",16337
+2020,2,"Eixample",7,"la Dreta de l'Eixample","Tots espanyols",12853
+2020,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Tots espanyols",12935
+2020,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Tots espanyols",18885
+2020,2,"Eixample",10,"Sant Antoni","Tots espanyols",11896
+2020,3,"Sants-Montjuïc",11,"el Poble Sec","Tots espanyols",10091
+2020,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Tots espanyols",418
+2020,3,"Sants-Montjuïc",13,"la Marina de Port","Tots espanyols",9772
+2020,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Tots espanyols",3277
+2020,3,"Sants-Montjuïc",15,"Hostafrancs","Tots espanyols",4817
+2020,3,"Sants-Montjuïc",16,"la Bordeta","Tots espanyols",6520
+2020,3,"Sants-Montjuïc",17,"Sants - Badal","Tots espanyols",7862
+2020,3,"Sants-Montjuïc",18,"Sants","Tots espanyols",13515
+2020,4,"Les Corts",19,"les Corts","Tots espanyols",16043
+2020,4,"Les Corts",20,"la Maternitat i Sant Ramon","Tots espanyols",8146
+2020,4,"Les Corts",21,"Pedralbes","Tots espanyols",3272
+2020,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Tots espanyols",1232
+2020,5,"Sarrià-Sant Gervasi",23,"Sarrià","Tots espanyols",7172
+2020,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Tots espanyols",4744
+2020,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Tots espanyols",7829
+2020,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Tots espanyols",15135
+2020,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Tots espanyols",9797
+2020,6,"Gràcia",28,"Vallcarca i els Penitents","Tots espanyols",5274
+2020,6,"Gràcia",29,"el Coll","Tots espanyols",2497
+2020,6,"Gràcia",30,"la Salut","Tots espanyols",4444
+2020,6,"Gràcia",31,"la Vila de Gràcia","Tots espanyols",16478
+2020,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Tots espanyols",12114
+2020,7,"Horta-Guinardó",33,"el Baix Guinardó","Tots espanyols",8857
+2020,7,"Horta-Guinardó",34,"Can Baró","Tots espanyols",3089
+2020,7,"Horta-Guinardó",35,"el Guinardó","Tots espanyols",12531
+2020,7,"Horta-Guinardó",36,"la Font d'en Fargues","Tots espanyols",3373
+2020,7,"Horta-Guinardó",37,"el Carmel","Tots espanyols",10419
+2020,7,"Horta-Guinardó",38,"la Teixonera","Tots espanyols",3941
+2020,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Tots espanyols",2436
+2020,7,"Horta-Guinardó",40,"Montbau","Tots espanyols",1793
+2020,7,"Horta-Guinardó",41,"la Vall d'Hebron","Tots espanyols",2100
+2020,7,"Horta-Guinardó",42,"la Clota","Tots espanyols",240
+2020,7,"Horta-Guinardó",43,"Horta","Tots espanyols",9310
+2020,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Tots espanyols",8837
+2020,8,"Nou Barris",45,"Porta","Tots espanyols",8485
+2020,8,"Nou Barris",46,"el Turó de la Peira","Tots espanyols",4809
+2020,8,"Nou Barris",47,"Can Peguera","Tots espanyols",808
+2020,8,"Nou Barris",48,"la Guineueta","Tots espanyols",5600
+2020,8,"Nou Barris",49,"Canyelles","Tots espanyols",2607
+2020,8,"Nou Barris",50,"les Roquetes","Tots espanyols",4555
+2020,8,"Nou Barris",51,"Verdun","Tots espanyols",4023
+2020,8,"Nou Barris",52,"la Prosperitat","Tots espanyols",9025
+2020,8,"Nou Barris",53,"la Trinitat Nova","Tots espanyols",2283
+2020,8,"Nou Barris",54,"Torre Baró","Tots espanyols",750
+2020,8,"Nou Barris",55,"Ciutat Meridiana","Tots espanyols",2505
+2020,8,"Nou Barris",56,"Vallbona","Tots espanyols",382
+2020,9,"Sant Andreu",57,"la Trinitat Vella","Tots espanyols",2399
+2020,9,"Sant Andreu",58,"Baró de Viver","Tots espanyols",807
+2020,9,"Sant Andreu",59,"el Bon Pastor","Tots espanyols",3755
+2020,9,"Sant Andreu",60,"Sant Andreu","Tots espanyols",21362
+2020,9,"Sant Andreu",61,"la Sagrera","Tots espanyols",9899
+2020,9,"Sant Andreu",62,"el Congrés i els Indians","Tots espanyols",4924
+2020,9,"Sant Andreu",63,"Navas","Tots espanyols",7437
+2020,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Tots espanyols",12766
+2020,10,"Sant Martí",65,"el Clot","Tots espanyols",8665
+2020,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Tots espanyols",4789
+2020,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Tots espanyols",2620
+2020,10,"Sant Martí",68,"el Poblenou","Tots espanyols",10220
+2020,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Tots espanyols",4051
+2020,10,"Sant Martí",70,"el Besòs i el Maresme","Tots espanyols",6061
+2020,10,"Sant Martí",71,"Provençals del Poblenou","Tots espanyols",6768
+2020,10,"Sant Martí",72,"Sant Martí de Provençals","Tots espanyols",9036
+2020,10,"Sant Martí",73,"la Verneda i la Pau","Tots espanyols",9821
+2020,1,"Ciutat Vella",1,"el Raval","Tots estrangers",5854
+2020,1,"Ciutat Vella",2,"el Barri Gòtic","Tots estrangers",2438
+2020,1,"Ciutat Vella",3,"la Barceloneta","Tots estrangers",2232
+2020,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Tots estrangers",3351
+2020,2,"Eixample",5,"el Fort Pienc","Tots estrangers",1799
+2020,2,"Eixample",6,"la Sagrada Família","Tots estrangers",2843
+2020,2,"Eixample",7,"la Dreta de l'Eixample","Tots estrangers",3258
+2020,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Tots estrangers",2823
+2020,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Tots estrangers",2855
+2020,2,"Eixample",10,"Sant Antoni","Tots estrangers",2136
+2020,3,"Sants-Montjuïc",11,"el Poble Sec","Tots estrangers",3117
+2020,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Tots estrangers",31
+2020,3,"Sants-Montjuïc",13,"la Marina de Port","Tots estrangers",921
+2020,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Tots estrangers",455
+2020,3,"Sants-Montjuïc",15,"Hostafrancs","Tots estrangers",971
+2020,3,"Sants-Montjuïc",16,"la Bordeta","Tots estrangers",563
+2020,3,"Sants-Montjuïc",17,"Sants - Badal","Tots estrangers",934
+2020,3,"Sants-Montjuïc",18,"Sants","Tots estrangers",1634
+2020,4,"Les Corts",19,"les Corts","Tots estrangers",1430
+2020,4,"Les Corts",20,"la Maternitat i Sant Ramon","Tots estrangers",671
+2020,4,"Les Corts",21,"Pedralbes","Tots estrangers",488
+2020,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Tots estrangers",163
+2020,5,"Sarrià-Sant Gervasi",23,"Sarrià","Tots estrangers",802
+2020,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Tots estrangers",364
+2020,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Tots estrangers",790
+2020,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Tots estrangers",1767
+2020,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Tots estrangers",1280
+2020,6,"Gràcia",28,"Vallcarca i els Penitents","Tots estrangers",637
+2020,6,"Gràcia",29,"el Coll","Tots estrangers",294
+2020,6,"Gràcia",30,"la Salut","Tots estrangers",474
+2020,6,"Gràcia",31,"la Vila de Gràcia","Tots estrangers",3600
+2020,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Tots estrangers",1435
+2020,7,"Horta-Guinardó",33,"el Baix Guinardó","Tots estrangers",880
+2020,7,"Horta-Guinardó",34,"Can Baró","Tots estrangers",372
+2020,7,"Horta-Guinardó",35,"el Guinardó","Tots estrangers",1220
+2020,7,"Horta-Guinardó",36,"la Font d'en Fargues","Tots estrangers",156
+2020,7,"Horta-Guinardó",37,"el Carmel","Tots estrangers",1110
+2020,7,"Horta-Guinardó",38,"la Teixonera","Tots estrangers",408
+2020,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Tots estrangers",208
+2020,7,"Horta-Guinardó",40,"Montbau","Tots estrangers",145
+2020,7,"Horta-Guinardó",41,"la Vall d'Hebron","Tots estrangers",103
+2020,7,"Horta-Guinardó",42,"la Clota","Tots estrangers",22
+2020,7,"Horta-Guinardó",43,"Horta","Tots estrangers",502
+2020,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Tots estrangers",633
+2020,8,"Nou Barris",45,"Porta","Tots estrangers",713
+2020,8,"Nou Barris",46,"el Turó de la Peira","Tots estrangers",595
+2020,8,"Nou Barris",47,"Can Peguera","Tots estrangers",41
+2020,8,"Nou Barris",48,"la Guineueta","Tots estrangers",196
+2020,8,"Nou Barris",49,"Canyelles","Tots estrangers",58
+2020,8,"Nou Barris",50,"les Roquetes","Tots estrangers",661
+2020,8,"Nou Barris",51,"Verdun","Tots estrangers",480
+2020,8,"Nou Barris",52,"la Prosperitat","Tots estrangers",709
+2020,8,"Nou Barris",53,"la Trinitat Nova","Tots estrangers",273
+2020,8,"Nou Barris",54,"Torre Baró","Tots estrangers",84
+2020,8,"Nou Barris",55,"Ciutat Meridiana","Tots estrangers",548
+2020,8,"Nou Barris",56,"Vallbona","Tots estrangers",36
+2020,9,"Sant Andreu",57,"la Trinitat Vella","Tots estrangers",537
+2020,9,"Sant Andreu",58,"Baró de Viver","Tots estrangers",56
+2020,9,"Sant Andreu",59,"el Bon Pastor","Tots estrangers",280
+2020,9,"Sant Andreu",60,"Sant Andreu","Tots estrangers",954
+2020,9,"Sant Andreu",61,"la Sagrera","Tots estrangers",731
+2020,9,"Sant Andreu",62,"el Congrés i els Indians","Tots estrangers",383
+2020,9,"Sant Andreu",63,"Navas","Tots estrangers",663
+2020,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Tots estrangers",1747
+2020,10,"Sant Martí",65,"el Clot","Tots estrangers",948
+2020,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Tots estrangers",846
+2020,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Tots estrangers",504
+2020,10,"Sant Martí",68,"el Poblenou","Tots estrangers",1888
+2020,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Tots estrangers",765
+2020,10,"Sant Martí",70,"el Besòs i el Maresme","Tots estrangers",1248
+2020,10,"Sant Martí",71,"Provençals del Poblenou","Tots estrangers",794
+2020,10,"Sant Martí",72,"Sant Martí de Provençals","Tots estrangers",669
+2020,10,"Sant Martí",73,"la Verneda i la Pau","Tots estrangers",699
+2020,1,"Ciutat Vella",1,"el Raval","Domicilis mixtos",3702
+2020,1,"Ciutat Vella",2,"el Barri Gòtic","Domicilis mixtos",1163
+2020,1,"Ciutat Vella",3,"la Barceloneta","Domicilis mixtos",933
+2020,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Domicilis mixtos",1721
+2020,2,"Eixample",5,"el Fort Pienc","Domicilis mixtos",1691
+2020,2,"Eixample",6,"la Sagrada Família","Domicilis mixtos",2788
+2020,2,"Eixample",7,"la Dreta de l'Eixample","Domicilis mixtos",2405
+2020,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Domicilis mixtos",2425
+2020,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Domicilis mixtos",2979
+2020,2,"Eixample",10,"Sant Antoni","Domicilis mixtos",2269
+2020,3,"Sants-Montjuïc",11,"el Poble Sec","Domicilis mixtos",2753
+2020,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Domicilis mixtos",43
+2020,3,"Sants-Montjuïc",13,"la Marina de Port","Domicilis mixtos",1342
+2020,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Domicilis mixtos",537
+2020,3,"Sants-Montjuïc",15,"Hostafrancs","Domicilis mixtos",908
+2020,3,"Sants-Montjuïc",16,"la Bordeta","Domicilis mixtos",800
+2020,3,"Sants-Montjuïc",17,"Sants - Badal","Domicilis mixtos",1271
+2020,3,"Sants-Montjuïc",18,"Sants","Domicilis mixtos",2070
+2020,4,"Les Corts",19,"les Corts","Domicilis mixtos",1679
+2020,4,"Les Corts",20,"la Maternitat i Sant Ramon","Domicilis mixtos",888
+2020,4,"Les Corts",21,"Pedralbes","Domicilis mixtos",444
+2020,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Domicilis mixtos",218
+2020,5,"Sarrià-Sant Gervasi",23,"Sarrià","Domicilis mixtos",898
+2020,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Domicilis mixtos",494
+2020,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Domicilis mixtos",869
+2020,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Domicilis mixtos",1921
+2020,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Domicilis mixtos",1338
+2020,6,"Gràcia",28,"Vallcarca i els Penitents","Domicilis mixtos",693
+2020,6,"Gràcia",29,"el Coll","Domicilis mixtos",372
+2020,6,"Gràcia",30,"la Salut","Domicilis mixtos",560
+2020,6,"Gràcia",31,"la Vila de Gràcia","Domicilis mixtos",2797
+2020,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Domicilis mixtos",1470
+2020,7,"Horta-Guinardó",33,"el Baix Guinardó","Domicilis mixtos",1152
+2020,7,"Horta-Guinardó",34,"Can Baró","Domicilis mixtos",438
+2020,7,"Horta-Guinardó",35,"el Guinardó","Domicilis mixtos",1821
+2020,7,"Horta-Guinardó",36,"la Font d'en Fargues","Domicilis mixtos",246
+2020,7,"Horta-Guinardó",37,"el Carmel","Domicilis mixtos",1418
+2020,7,"Horta-Guinardó",38,"la Teixonera","Domicilis mixtos",537
+2020,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Domicilis mixtos",349
+2020,7,"Horta-Guinardó",40,"Montbau","Domicilis mixtos",202
+2020,7,"Horta-Guinardó",41,"la Vall d'Hebron","Domicilis mixtos",169
+2020,7,"Horta-Guinardó",42,"la Clota","Domicilis mixtos",22
+2020,7,"Horta-Guinardó",43,"Horta","Domicilis mixtos",908
+2020,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Domicilis mixtos",1084
+2020,8,"Nou Barris",45,"Porta","Domicilis mixtos",1095
+2020,8,"Nou Barris",46,"el Turó de la Peira","Domicilis mixtos",951
+2020,8,"Nou Barris",47,"Can Peguera","Domicilis mixtos",81
+2020,8,"Nou Barris",48,"la Guineueta","Domicilis mixtos",437
+2020,8,"Nou Barris",49,"Canyelles","Domicilis mixtos",140
+2020,8,"Nou Barris",50,"les Roquetes","Domicilis mixtos",810
+2020,8,"Nou Barris",51,"Verdun","Domicilis mixtos",638
+2020,8,"Nou Barris",52,"la Prosperitat","Domicilis mixtos",1096
+2020,8,"Nou Barris",53,"la Trinitat Nova","Domicilis mixtos",385
+2020,8,"Nou Barris",54,"Torre Baró","Domicilis mixtos",138
+2020,8,"Nou Barris",55,"Ciutat Meridiana","Domicilis mixtos",691
+2020,8,"Nou Barris",56,"Vallbona","Domicilis mixtos",70
+2020,9,"Sant Andreu",57,"la Trinitat Vella","Domicilis mixtos",629
+2020,9,"Sant Andreu",58,"Baró de Viver","Domicilis mixtos",132
+2020,9,"Sant Andreu",59,"el Bon Pastor","Domicilis mixtos",463
+2020,9,"Sant Andreu",60,"Sant Andreu","Domicilis mixtos",1668
+2020,9,"Sant Andreu",61,"la Sagrera","Domicilis mixtos",1248
+2020,9,"Sant Andreu",62,"el Congrés i els Indians","Domicilis mixtos",683
+2020,9,"Sant Andreu",63,"Navas","Domicilis mixtos",988
+2020,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Domicilis mixtos",2007
+2020,10,"Sant Martí",65,"el Clot","Domicilis mixtos",1173
+2020,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Domicilis mixtos",814
+2020,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Domicilis mixtos",421
+2020,10,"Sant Martí",68,"el Poblenou","Domicilis mixtos",1652
+2020,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Domicilis mixtos",552
+2020,10,"Sant Martí",70,"el Besòs i el Maresme","Domicilis mixtos",1056
+2020,10,"Sant Martí",71,"Provençals del Poblenou","Domicilis mixtos",857
+2020,10,"Sant Martí",72,"Sant Martí de Provençals","Domicilis mixtos",924

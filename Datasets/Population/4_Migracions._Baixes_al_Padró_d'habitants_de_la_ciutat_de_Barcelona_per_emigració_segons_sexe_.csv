@@ -1,0 +1,146 @@
+"﻿""Any""","Codi_Districte","Nom_Districte","Codi_Barri","Nom_Barri","Sexe","Nombre"
+2019,1,"Ciutat Vella",1,"el Raval","Dones",893
+2019,1,"Ciutat Vella",2,"el Barri Gòtic","Dones",533
+2019,1,"Ciutat Vella",3,"la Barceloneta","Dones",346
+2019,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Dones",527
+2019,2,"Eixample",5,"el Fort Pienc","Dones",697
+2019,2,"Eixample",6,"la Sagrada Família","Dones",1063
+2019,2,"Eixample",7,"la Dreta de l'Eixample","Dones",839
+2019,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Dones",875
+2019,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Dones",1261
+2019,2,"Eixample",10,"Sant Antoni","Dones",785
+2019,3,"Sants-Montjuïc",11,"el Poble Sec","Dones",898
+2019,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Dones",19
+2019,3,"Sants-Montjuïc",13,"la Marina de Port","Dones",612
+2019,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Dones",227
+2019,3,"Sants-Montjuïc",15,"Hostafrancs","Dones",404
+2019,3,"Sants-Montjuïc",16,"la Bordeta","Dones",418
+2019,3,"Sants-Montjuïc",17,"Sants - Badal","Dones",615
+2019,3,"Sants-Montjuïc",18,"Sants","Dones",1074
+2019,4,"Les Corts",19,"les Corts","Dones",770
+2019,4,"Les Corts",20,"la Maternitat i Sant Ramon","Dones",562
+2019,4,"Les Corts",21,"Pedralbes","Dones",202
+2019,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Dones",115
+2019,5,"Sarrià-Sant Gervasi",23,"Sarrià","Dones",454
+2019,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Dones",279
+2019,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Dones",424
+2019,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Dones",803
+2019,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Dones",528
+2019,6,"Gràcia",28,"Vallcarca i els Penitents","Dones",272
+2019,6,"Gràcia",29,"el Coll","Dones",161
+2019,6,"Gràcia",30,"la Salut","Dones",219
+2019,6,"Gràcia",31,"la Vila de Gràcia","Dones",983
+2019,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Dones",543
+2019,7,"Horta-Guinardó",33,"el Baix Guinardó","Dones",428
+2019,7,"Horta-Guinardó",34,"Can Baró","Dones",172
+2019,7,"Horta-Guinardó",35,"el Guinardó","Dones",622
+2019,7,"Horta-Guinardó",36,"la Font d'en Fargues","Dones",139
+2019,7,"Horta-Guinardó",37,"el Carmel","Dones",547
+2019,7,"Horta-Guinardó",38,"la Teixonera","Dones",227
+2019,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Dones",120
+2019,7,"Horta-Guinardó",40,"Montbau","Dones",91
+2019,7,"Horta-Guinardó",41,"la Vall d'Hebron","Dones",102
+2019,7,"Horta-Guinardó",42,"la Clota","Dones",8
+2019,7,"Horta-Guinardó",43,"Horta","Dones",480
+2019,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Dones",404
+2019,8,"Nou Barris",45,"Porta","Dones",509
+2019,8,"Nou Barris",46,"el Turó de la Peira","Dones",329
+2019,8,"Nou Barris",47,"Can Peguera","Dones",29
+2019,8,"Nou Barris",48,"la Guineueta","Dones",236
+2019,8,"Nou Barris",49,"Canyelles","Dones",75
+2019,8,"Nou Barris",50,"les Roquetes","Dones",322
+2019,8,"Nou Barris",51,"Verdun","Dones",216
+2019,8,"Nou Barris",52,"la Prosperitat","Dones",446
+2019,8,"Nou Barris",53,"la Trinitat Nova","Dones",163
+2019,8,"Nou Barris",54,"Torre Baró","Dones",49
+2019,8,"Nou Barris",55,"Ciutat Meridiana","Dones",243
+2019,8,"Nou Barris",56,"Vallbona","Dones",31
+2019,9,"Sant Andreu",57,"la Trinitat Vella","Dones",191
+2019,9,"Sant Andreu",58,"Baró de Viver","Dones",48
+2019,9,"Sant Andreu",59,"el Bon Pastor","Dones",277
+2019,9,"Sant Andreu",60,"Sant Andreu","Dones",788
+2019,9,"Sant Andreu",61,"la Sagrera","Dones",524
+2019,9,"Sant Andreu",62,"el Congrés i els Indians","Dones",211
+2019,9,"Sant Andreu",63,"Navas","Dones",363
+2019,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Dones",713
+2019,10,"Sant Martí",65,"el Clot","Dones",497
+2019,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Dones",234
+2019,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Dones",147
+2019,10,"Sant Martí",68,"el Poblenou","Dones",580
+2019,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Dones",222
+2019,10,"Sant Martí",70,"el Besòs i el Maresme","Dones",630
+2019,10,"Sant Martí",71,"Provençals del Poblenou","Dones",344
+2019,10,"Sant Martí",72,"Sant Martí de Provençals","Dones",421
+2019,10,"Sant Martí",73,"la Verneda i la Pau","Dones",479
+2019,1,"Ciutat Vella",1,"el Raval","Homes",1333
+2019,1,"Ciutat Vella",2,"el Barri Gòtic","Homes",696
+2019,1,"Ciutat Vella",3,"la Barceloneta","Homes",412
+2019,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Homes",609
+2019,2,"Eixample",5,"el Fort Pienc","Homes",666
+2019,2,"Eixample",6,"la Sagrada Família","Homes",924
+2019,2,"Eixample",7,"la Dreta de l'Eixample","Homes",790
+2019,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Homes",901
+2019,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Homes",1133
+2019,2,"Eixample",10,"Sant Antoni","Homes",802
+2019,3,"Sants-Montjuïc",11,"el Poble Sec","Homes",996
+2019,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Homes",18
+2019,3,"Sants-Montjuïc",13,"la Marina de Port","Homes",554
+2019,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Homes",226
+2019,3,"Sants-Montjuïc",15,"Hostafrancs","Homes",388
+2019,3,"Sants-Montjuïc",16,"la Bordeta","Homes",441
+2019,3,"Sants-Montjuïc",17,"Sants - Badal","Homes",601
+2019,3,"Sants-Montjuïc",18,"Sants","Homes",1102
+2019,4,"Les Corts",19,"les Corts","Homes",723
+2019,4,"Les Corts",20,"la Maternitat i Sant Ramon","Homes",542
+2019,4,"Les Corts",21,"Pedralbes","Homes",223
+2019,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Homes",105
+2019,5,"Sarrià-Sant Gervasi",23,"Sarrià","Homes",392
+2019,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Homes",249
+2019,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Homes",390
+2019,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Homes",662
+2019,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Homes",452
+2019,6,"Gràcia",28,"Vallcarca i els Penitents","Homes",223
+2019,6,"Gràcia",29,"el Coll","Homes",124
+2019,6,"Gràcia",30,"la Salut","Homes",226
+2019,6,"Gràcia",31,"la Vila de Gràcia","Homes",831
+2019,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Homes",533
+2019,7,"Horta-Guinardó",33,"el Baix Guinardó","Homes",378
+2019,7,"Horta-Guinardó",34,"Can Baró","Homes",171
+2019,7,"Horta-Guinardó",35,"el Guinardó","Homes",553
+2019,7,"Horta-Guinardó",36,"la Font d'en Fargues","Homes",140
+2019,7,"Horta-Guinardó",37,"el Carmel","Homes",510
+2019,7,"Horta-Guinardó",38,"la Teixonera","Homes",191
+2019,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Homes",138
+2019,7,"Horta-Guinardó",40,"Montbau","Homes",97
+2019,7,"Horta-Guinardó",41,"la Vall d'Hebron","Homes",94
+2019,7,"Horta-Guinardó",42,"la Clota","Homes",7
+2019,7,"Horta-Guinardó",43,"Horta","Homes",463
+2019,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Homes",375
+2019,8,"Nou Barris",45,"Porta","Homes",501
+2019,8,"Nou Barris",46,"el Turó de la Peira","Homes",274
+2019,8,"Nou Barris",47,"Can Peguera","Homes",19
+2019,8,"Nou Barris",48,"la Guineueta","Homes",188
+2019,8,"Nou Barris",49,"Canyelles","Homes",80
+2019,8,"Nou Barris",50,"les Roquetes","Homes",309
+2019,8,"Nou Barris",51,"Verdun","Homes",219
+2019,8,"Nou Barris",52,"la Prosperitat","Homes",395
+2019,8,"Nou Barris",53,"la Trinitat Nova","Homes",163
+2019,8,"Nou Barris",54,"Torre Baró","Homes",59
+2019,8,"Nou Barris",55,"Ciutat Meridiana","Homes",227
+2019,8,"Nou Barris",56,"Vallbona","Homes",37
+2019,9,"Sant Andreu",57,"la Trinitat Vella","Homes",254
+2019,9,"Sant Andreu",58,"Baró de Viver","Homes",47
+2019,9,"Sant Andreu",59,"el Bon Pastor","Homes",299
+2019,9,"Sant Andreu",60,"Sant Andreu","Homes",802
+2019,9,"Sant Andreu",61,"la Sagrera","Homes",459
+2019,9,"Sant Andreu",62,"el Congrés i els Indians","Homes",229
+2019,9,"Sant Andreu",63,"Navas","Homes",322
+2019,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Homes",698
+2019,10,"Sant Martí",65,"el Clot","Homes",450
+2019,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Homes",254
+2019,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Homes",137
+2019,10,"Sant Martí",68,"el Poblenou","Homes",577
+2019,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Homes",252
+2019,10,"Sant Martí",70,"el Besòs i el Maresme","Homes",749
+2019,10,"Sant Martí",71,"Provençals del Poblenou","Homes",367
+2019,10,"Sant Martí",72,"Sant Martí de Provençals","Homes",379
