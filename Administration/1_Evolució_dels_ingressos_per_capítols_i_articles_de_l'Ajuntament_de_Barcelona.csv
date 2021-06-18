@@ -1,0 +1,55 @@
+"Codi_Tipologia","Tipologia_operacions","Codi_capitol","Nom_capitol","Codi_article","Nom_article","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019"
+"A","Operacions Corrents",1,"impostos directes",10000,"Cessió IRPF",57.0,54.2,45.8,49.8,48.4,51.6,57.2,59.5,64.4,73.9
+"A","Operacions Corrents",1,"impostos directes",11200,"IBI de naturalesa rústega",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1
+"A","Operacions Corrents",1,"impostos directes",11301,"IBI de naturalesa urbana",497.2,537.2,571.0,589.4,616.3,655.9,659.8,651.8,635.1,647.2
+"A","Operacions Corrents",1,"impostos directes",11401,"IBI de característiques especials",5.5,6.9,8.6,11.0,9.7,10.7,11.5,11.2,11.1,11.1
+"A","Operacions Corrents",1,"impostos directes",11500,"Impost sobre vehicles de tracció mecànica",71.7,69.7,64.9,63.7,62.5,61.4,61.5,61.0,60.0,58.3
+"A","Operacions Corrents",1,"impostos directes",11600,"Impost sobre increment de valor terrenys naturalesa urbana",101.5,83.3,93.0,114.4,145.8,169.7,177.1,197.2,188.0,197.6
+"A","Operacions Corrents",1,"impostos directes",13000,"Impost activitats econòmiques (IAE)",89.6,91.1,87.8,86.0,81.9,81.4,85.0,85.2,84.9,83.1
+"A","Operacions Corrents",1,"impostos directes",13001,"Impost activitats professionals i artístiques",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"A","Operacions Corrents",1,"impostos directes",13004,"Quotes nacionals i provincials IAE",9.0,9.1,9.1,6.6,10.9,8.4,9.3,9.2,10.0,8.6
+"A","Operacions Corrents",1,"impostos directes",18000,"Directes extingits",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"A","Operacions Corrents",2,"impostos indirectes",21000,"Cessió IVA",18.8,21.3,20.1,27.3,26.7,29.6,28.5,32.7,37.1,35.0
+"A","Operacions Corrents",2,"impostos indirectes",22000,"Cessió IE alcohol i derivats",0.4,0.4,0.2,0.3,0.4,0.4,0.3,0.4,0.4,0.4
+"A","Operacions Corrents",2,"impostos indirectes",22001,"Cessió IE cervesa",0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.2
+"A","Operacions Corrents",2,"impostos indirectes",22003,"Cessió IE tabac",3.7,3.7,1.5,2.6,3.3,3.3,3.3,3.6,3.5,3.1
+"A","Operacions Corrents",2,"impostos indirectes",22004,"Cessió IE hidrocarburs",4.7,4.5,2.3,3.6,3.4,5.1,5.1,5.3,5.2,5.2
+"A","Operacions Corrents",2,"impostos indirectes",22006,"Cessió IE de productes intermedis",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"A","Operacions Corrents",2,"impostos indirectes",29000,"Impost sobre construccions, instal·lacions i obres",27.3,24.0,31.1,21.9,22.0,19.9,28.6,29.3,30.6,48.5
+"A","Operacions Corrents",3,"taxes i altres ingressos",30,"Taxes per la prestació serveis públics",27.3,28.0,28.4,27.7,27.0,27.6,28.1,27.7,27.2,15.7
+"A","Operacions Corrents",3,"taxes i altres ingressos",32,"Taxes per la realització d'activitats de compl.",35.7,32.2,28.4,24.6,25.8,24.4,27.7,23.8,23.4,25.9
+"A","Operacions Corrents",3,"taxes i altres ingressos",33,"Taxes per utilització privativa o aprofitaments. Especials",111.1,106.6,97.0,96.0,90.3,90.0,97.0,96.4,93.8,94.9
+"A","Operacions Corrents",3,"taxes i altres ingressos",34,"Preus públics per la prestació de serv.",37.9,29.6,32.4,31.1,32.5,29.6,30.3,26.1,48.1,40.3
+"A","Operacions Corrents",3,"taxes i altres ingressos",35,"Contribucions especials",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"A","Operacions Corrents",3,"taxes i altres ingressos",36,"Vendes",11.8,10.7,10.7,8.1,8.9,8.3,11.7,7.8,10.2,8.6
+"A","Operacions Corrents",3,"taxes i altres ingressos",38,"Reintegraments",2.0,1.6,1.2,1.2,2.2,0.8,3.2,2.4,1.6,2.1
+"A","Operacions Corrents",3,"taxes i altres ingressos",39,"Altres ingressos",128.0,131.4,128.8,134.8,123.6,122.4,120.9,110.1,132.5,151.5
+"A","Operacions Corrents",4,"transferències corrents",41,"D'organismes autònoms locals de l'Ajuntament",0.3,0.2,2.8,0.4,1.0,0.5,0.6,0.4,0.0,0.7
+"A","Operacions Corrents",4,"transferències corrents",42,"De l'administració de l'Estat",790.1,831.1,878.6,957.0,946.1,986.0,967.5,1003.4,1013.6,1029.1
+"A","Operacions Corrents",4,"transferències corrents",44,"De societats mercantils de l’Ajuntament",0.1,0.0,0.1,0.0,0.0,0.0,0.0,0.1,0.1,0.0
+"A","Operacions Corrents",4,"transferències corrents",45,"De comunitats autònomes",90.4,72.1,65.3,64.1,48.9,91.5,74.6,73.6,87.9,92.1
+"A","Operacions Corrents",4,"transferències corrents",46,"D'entitats locals",60.0,58.8,60.0,61.9,57.2,60.6,5.8,0.7,1.4,1.1
+"A","Operacions Corrents",4,"transferències corrents",47,"D'empreses privades",0.3,0.4,0.2,0.3,0.4,0.1,0.2,0.3,0.2,0.1
+"A","Operacions Corrents",4,"transferències corrents",48,"De famílies i institucions sense afany de lucre",0.2,0.1,0.1,0.0,0.0,0.0,0.0,0.0,0.0,1.8
+"A","Operacions Corrents",4,"transferències corrents",49,"De l'exterior",1.7,1.0,1.8,1.8,1.2,1.1,2.6,3.5,1.4,3.8
+"A","Operacions Corrents",5,"ingressos patrimonials",50,"Interessos de títols valors",0.9,3.9,1.4,0.8,1.7,0.0,0.0,0.0,0.0,0.0
+"A","Operacions Corrents",5,"ingressos patrimonials",52,"Interessos de dipòsits",0.6,1.4,1.3,6.1,4.0,7.7,1.8,2.5,1.4,1.5
+"A","Operacions Corrents",5,"ingressos patrimonials",53,"Dividends i participació beneficis",0.0,34.2,0.0,0.0,0.5,0.0,0.0,2.0,0.3,12.5
+"A","Operacions Corrents",5,"ingressos patrimonials",54,"Rendes de béns immobles",3.3,3.0,3.3,3.6,3.1,2.1,1.8,2.9,2.4,2.3
+"A","Operacions Corrents",5,"ingressos patrimonials",55,"Productes de concessions i aprofitaments",45.5,36.1,36.2,34.0,205.0,41.3,36.6,34.6,30.0,30.2
+"","",5,"ingressos patrimonials",59,"Altres ingressos patrimonials",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.7
+"B","Operacions de Capital",6,"venda d'inversions reals",60,"De terrenys",4.7,1.0,5.0,1.4,4.1,4.3,2.3,2.1,4.2,6.5
+"B","Operacions de Capital",6,"venda d'inversions reals",61,"De les inversions reals",3.1,6.5,6.5,6.0,7.0,0.1,0.0,0.1,0.0,0.0
+"B","Operacions de Capital",6,"venda d'inversions reals",68,"Reintegrament per op. capital",1.6,0.4,0.1,0.0,0.0,1.0,0.1,0.9,0.2,0.0
+"B","Operacions de Capital",7,"transferències de capital",71,"D'organismes autònoms de l'entitat local",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"B","Operacions de Capital",7,"transferències de capital",72,"De l'Estat",112.4,43.4,0.6,0.5,0.0,0.8,1.4,0.0,0.1,0.0
+"B","Operacions de Capital",7,"transferències de capital",75,"De comunitats autònomes",18.4,28.5,21.8,13.2,18.0,21.3,12.8,7.0,3.9,0.4
+"B","Operacions de Capital",7,"transferències de capital",76,"D'entitats locals",10.8,11.4,3.5,5.4,16.1,8.1,20.4,2.9,24.7,15.8
+"B","Operacions de Capital",7,"transferències de capital",77,"D'empreses privades",0.2,0.0,0.0,0.0,0.3,0.0,0.0,0.0,0.0,0.0
+"B","Operacions de Capital",7,"transferències de capital",78,"De famílies i institucions sense afany de lucre",0.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0
+"B","Operacions de Capital",7,"transferències de capital",79,"De l'exterior",37.8,10.0,1.4,1.9,3.0,2.3,3.6,0.0,3.1,1.9
+"C","Operacions Financeres",8,"actius financers",84,"Devolució de dipòsits i fiances constituïts",0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0
+"C","Operacions Financeres",8,"actius financers",85,"Venda d'accions i participacions del sector públic",0.0,0.0,0.3,0.1,0.0,0.2,0.1,0.1,0.0,0.1
+"C","Operacions Financeres",8,"actius financers",87,"Romanent de tresoreria",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"C","Operacions Financeres",9,"passius financers",90,"Emissió de deute públic en euros",0.0,0.0,0.0,0.0,0.0,0.0,0.0,35.0,0.0,0.0
+"C","Operacions Financeres",9,"passius financers",91,"Préstecs rebuts en euros",550.0,0.0,165.0,40.0,0.0,160.0,156.0,91.1,50.0,0.0
