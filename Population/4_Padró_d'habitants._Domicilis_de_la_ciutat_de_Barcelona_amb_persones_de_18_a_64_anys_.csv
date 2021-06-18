@@ -1,0 +1,365 @@
+"﻿""Any""","Codi_districte","Nom_districte","Codi_barri","Nom_barri","Persones","Nombre"
+2020,1,"Ciutat Vella",1,"el Raval","Cap persona de 18 a 64 anys",2326
+2020,1,"Ciutat Vella",2,"el Barri Gòtic","Cap persona de 18 a 64 anys",929
+2020,1,"Ciutat Vella",3,"la Barceloneta","Cap persona de 18 a 64 anys",1186
+2020,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Cap persona de 18 a 64 anys",1466
+2020,2,"Eixample",5,"el Fort Pienc","Cap persona de 18 a 64 anys",2933
+2020,2,"Eixample",6,"la Sagrada Família","Cap persona de 18 a 64 anys",5146
+2020,2,"Eixample",7,"la Dreta de l'Eixample","Cap persona de 18 a 64 anys",3996
+2020,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Cap persona de 18 a 64 anys",4011
+2020,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Cap persona de 18 a 64 anys",6083
+2020,2,"Eixample",10,"Sant Antoni","Cap persona de 18 a 64 anys",3940
+2020,3,"Sants-Montjuïc",11,"el Poble Sec","Cap persona de 18 a 64 anys",2912
+2020,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Cap persona de 18 a 64 anys",99
+2020,3,"Sants-Montjuïc",13,"la Marina de Port","Cap persona de 18 a 64 anys",2649
+2020,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Cap persona de 18 a 64 anys",1009
+2020,3,"Sants-Montjuïc",15,"Hostafrancs","Cap persona de 18 a 64 anys",1306
+2020,3,"Sants-Montjuïc",16,"la Bordeta","Cap persona de 18 a 64 anys",1819
+2020,3,"Sants-Montjuïc",17,"Sants - Badal","Cap persona de 18 a 64 anys",2322
+2020,3,"Sants-Montjuïc",18,"Sants","Cap persona de 18 a 64 anys",3875
+2020,4,"Les Corts",19,"les Corts","Cap persona de 18 a 64 anys",5158
+2020,4,"Les Corts",20,"la Maternitat i Sant Ramon","Cap persona de 18 a 64 anys",2654
+2020,4,"Les Corts",21,"Pedralbes","Cap persona de 18 a 64 anys",1137
+2020,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Cap persona de 18 a 64 anys",241
+2020,5,"Sarrià-Sant Gervasi",23,"Sarrià","Cap persona de 18 a 64 anys",2007
+2020,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Cap persona de 18 a 64 anys",1342
+2020,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Cap persona de 18 a 64 anys",2272
+2020,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Cap persona de 18 a 64 anys",4601
+2020,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Cap persona de 18 a 64 anys",2854
+2020,6,"Gràcia",28,"Vallcarca i els Penitents","Cap persona de 18 a 64 anys",1545
+2020,6,"Gràcia",29,"el Coll","Cap persona de 18 a 64 anys",674
+2020,6,"Gràcia",30,"la Salut","Cap persona de 18 a 64 anys",1420
+2020,6,"Gràcia",31,"la Vila de Gràcia","Cap persona de 18 a 64 anys",4408
+2020,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Cap persona de 18 a 64 anys",3787
+2020,7,"Horta-Guinardó",33,"el Baix Guinardó","Cap persona de 18 a 64 anys",2701
+2020,7,"Horta-Guinardó",34,"Can Baró","Cap persona de 18 a 64 anys",875
+2020,7,"Horta-Guinardó",35,"el Guinardó","Cap persona de 18 a 64 anys",3672
+2020,7,"Horta-Guinardó",36,"la Font d'en Fargues","Cap persona de 18 a 64 anys",927
+2020,7,"Horta-Guinardó",37,"el Carmel","Cap persona de 18 a 64 anys",3114
+2020,7,"Horta-Guinardó",38,"la Teixonera","Cap persona de 18 a 64 anys",1080
+2020,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Cap persona de 18 a 64 anys",838
+2020,7,"Horta-Guinardó",40,"Montbau","Cap persona de 18 a 64 anys",583
+2020,7,"Horta-Guinardó",41,"la Vall d'Hebron","Cap persona de 18 a 64 anys",693
+2020,7,"Horta-Guinardó",42,"la Clota","Cap persona de 18 a 64 anys",38
+2020,7,"Horta-Guinardó",43,"Horta","Cap persona de 18 a 64 anys",2839
+2020,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Cap persona de 18 a 64 anys",2885
+2020,8,"Nou Barris",45,"Porta","Cap persona de 18 a 64 anys",2811
+2020,8,"Nou Barris",46,"el Turó de la Peira","Cap persona de 18 a 64 anys",1573
+2020,8,"Nou Barris",47,"Can Peguera","Cap persona de 18 a 64 anys",186
+2020,8,"Nou Barris",48,"la Guineueta","Cap persona de 18 a 64 anys",1975
+2020,8,"Nou Barris",49,"Canyelles","Cap persona de 18 a 64 anys",827
+2020,8,"Nou Barris",50,"les Roquetes","Cap persona de 18 a 64 anys",1218
+2020,8,"Nou Barris",51,"Verdun","Cap persona de 18 a 64 anys",1272
+2020,8,"Nou Barris",52,"la Prosperitat","Cap persona de 18 a 64 anys",3067
+2020,8,"Nou Barris",53,"la Trinitat Nova","Cap persona de 18 a 64 anys",576
+2020,8,"Nou Barris",54,"Torre Baró","Cap persona de 18 a 64 anys",119
+2020,8,"Nou Barris",55,"Ciutat Meridiana","Cap persona de 18 a 64 anys",781
+2020,8,"Nou Barris",56,"Vallbona","Cap persona de 18 a 64 anys",57
+2020,9,"Sant Andreu",57,"la Trinitat Vella","Cap persona de 18 a 64 anys",633
+2020,9,"Sant Andreu",58,"Baró de Viver","Cap persona de 18 a 64 anys",174
+2020,9,"Sant Andreu",59,"el Bon Pastor","Cap persona de 18 a 64 anys",888
+2020,9,"Sant Andreu",60,"Sant Andreu","Cap persona de 18 a 64 anys",5671
+2020,9,"Sant Andreu",61,"la Sagrera","Cap persona de 18 a 64 anys",3041
+2020,9,"Sant Andreu",62,"el Congrés i els Indians","Cap persona de 18 a 64 anys",1444
+2020,9,"Sant Andreu",63,"Navas","Cap persona de 18 a 64 anys",2406
+2020,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Cap persona de 18 a 64 anys",4036
+2020,10,"Sant Martí",65,"el Clot","Cap persona de 18 a 64 anys",2309
+2020,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Cap persona de 18 a 64 anys",1371
+2020,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Cap persona de 18 a 64 anys",562
+2020,10,"Sant Martí",68,"el Poblenou","Cap persona de 18 a 64 anys",2375
+2020,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Cap persona de 18 a 64 anys",875
+2020,10,"Sant Martí",70,"el Besòs i el Maresme","Cap persona de 18 a 64 anys",1797
+2020,10,"Sant Martí",71,"Provençals del Poblenou","Cap persona de 18 a 64 anys",1584
+2020,10,"Sant Martí",72,"Sant Martí de Provençals","Cap persona de 18 a 64 anys",2945
+2020,10,"Sant Martí",73,"la Verneda i la Pau","Cap persona de 18 a 64 anys",3249
+2020,1,"Ciutat Vella",1,"el Raval","1 persona",5653
+2020,1,"Ciutat Vella",2,"el Barri Gòtic","1 persona",2393
+2020,1,"Ciutat Vella",3,"la Barceloneta","1 persona",2623
+2020,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","1 persona",3928
+2020,2,"Eixample",5,"el Fort Pienc","1 persona",3633
+2020,2,"Eixample",6,"la Sagrada Família","1 persona",6602
+2020,2,"Eixample",7,"la Dreta de l'Eixample","1 persona",5908
+2020,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","1 persona",5874
+2020,2,"Eixample",9,"la Nova Esquerra de l'Eixample","1 persona",7365
+2020,2,"Eixample",10,"Sant Antoni","1 persona",4808
+2020,3,"Sants-Montjuïc",11,"el Poble Sec","1 persona",5081
+2020,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","1 persona",178
+2020,3,"Sants-Montjuïc",13,"la Marina de Port","1 persona",3186
+2020,3,"Sants-Montjuïc",14,"la Font de la Guatlla","1 persona",1276
+2020,3,"Sants-Montjuïc",15,"Hostafrancs","1 persona",2134
+2020,3,"Sants-Montjuïc",16,"la Bordeta","1 persona",2158
+2020,3,"Sants-Montjuïc",17,"Sants - Badal","1 persona",2949
+2020,3,"Sants-Montjuïc",18,"Sants","1 persona",5258
+2020,4,"Les Corts",19,"les Corts","1 persona",5593
+2020,4,"Les Corts",20,"la Maternitat i Sant Ramon","1 persona",2730
+2020,4,"Les Corts",21,"Pedralbes","1 persona",1161
+2020,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","1 persona",438
+2020,5,"Sarrià-Sant Gervasi",23,"Sarrià","1 persona",2508
+2020,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","1 persona",1436
+2020,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","1 persona",2735
+2020,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","1 persona",5610
+2020,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","1 persona",3809
+2020,6,"Gràcia",28,"Vallcarca i els Penitents","1 persona",2011
+2020,6,"Gràcia",29,"el Coll","1 persona",973
+2020,6,"Gràcia",30,"la Salut","1 persona",1613
+2020,6,"Gràcia",31,"la Vila de Gràcia","1 persona",8161
+2020,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","1 persona",4554
+2020,7,"Horta-Guinardó",33,"el Baix Guinardó","1 persona",3142
+2020,7,"Horta-Guinardó",34,"Can Baró","1 persona",1174
+2020,7,"Horta-Guinardó",35,"el Guinardó","1 persona",4493
+2020,7,"Horta-Guinardó",36,"la Font d'en Fargues","1 persona",1038
+2020,7,"Horta-Guinardó",37,"el Carmel","1 persona",3506
+2020,7,"Horta-Guinardó",38,"la Teixonera","1 persona",1415
+2020,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","1 persona",779
+2020,7,"Horta-Guinardó",40,"Montbau","1 persona",583
+2020,7,"Horta-Guinardó",41,"la Vall d'Hebron","1 persona",561
+2020,7,"Horta-Guinardó",42,"la Clota","1 persona",88
+2020,7,"Horta-Guinardó",43,"Horta","1 persona",2959
+2020,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","1 persona",2766
+2020,8,"Nou Barris",45,"Porta","1 persona",2788
+2020,8,"Nou Barris",46,"el Turó de la Peira","1 persona",1744
+2020,8,"Nou Barris",47,"Can Peguera","1 persona",343
+2020,8,"Nou Barris",48,"la Guineueta","1 persona",1530
+2020,8,"Nou Barris",49,"Canyelles","1 persona",724
+2020,8,"Nou Barris",50,"les Roquetes","1 persona",1625
+2020,8,"Nou Barris",51,"Verdun","1 persona",1474
+2020,8,"Nou Barris",52,"la Prosperitat","1 persona",2746
+2020,8,"Nou Barris",53,"la Trinitat Nova","1 persona",869
+2020,8,"Nou Barris",54,"Torre Baró","1 persona",270
+2020,8,"Nou Barris",55,"Ciutat Meridiana","1 persona",908
+2020,8,"Nou Barris",56,"Vallbona","1 persona",163
+2020,9,"Sant Andreu",57,"la Trinitat Vella","1 persona",924
+2020,9,"Sant Andreu",58,"Baró de Viver","1 persona",295
+2020,9,"Sant Andreu",59,"el Bon Pastor","1 persona",1161
+2020,9,"Sant Andreu",60,"Sant Andreu","1 persona",6546
+2020,9,"Sant Andreu",61,"la Sagrera","1 persona",3225
+2020,9,"Sant Andreu",62,"el Congrés i els Indians","1 persona",1624
+2020,9,"Sant Andreu",63,"Navas","1 persona",2345
+2020,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","1 persona",4802
+2020,10,"Sant Martí",65,"el Clot","1 persona",2973
+2020,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","1 persona",1927
+2020,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","1 persona",1001
+2020,10,"Sant Martí",68,"el Poblenou","1 persona",4087
+2020,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","1 persona",1650
+2020,10,"Sant Martí",70,"el Besòs i el Maresme","1 persona",2168
+2020,10,"Sant Martí",71,"Provençals del Poblenou","1 persona",2270
+2020,10,"Sant Martí",72,"Sant Martí de Provençals","1 persona",2827
+2020,10,"Sant Martí",73,"la Verneda i la Pau","1 persona",2903
+2020,1,"Ciutat Vella",1,"el Raval","2 persones",4907
+2020,1,"Ciutat Vella",2,"el Barri Gòtic","2 persones",1911
+2020,1,"Ciutat Vella",3,"la Barceloneta","2 persones",1996
+2020,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","2 persones",2984
+2020,2,"Eixample",5,"el Fort Pienc","2 persones",3714
+2020,2,"Eixample",6,"la Sagrada Família","2 persones",6041
+2020,2,"Eixample",7,"la Dreta de l'Eixample","2 persones",5380
+2020,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","2 persones",5083
+2020,2,"Eixample",9,"la Nova Esquerra de l'Eixample","2 persones",6741
+2020,2,"Eixample",10,"Sant Antoni","2 persones",4474
+2020,3,"Sants-Montjuïc",11,"el Poble Sec","2 persones",4445
+2020,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","2 persones",118
+2020,3,"Sants-Montjuïc",13,"la Marina de Port","2 persones",3475
+2020,3,"Sants-Montjuïc",14,"la Font de la Guatlla","2 persones",1140
+2020,3,"Sants-Montjuïc",15,"Hostafrancs","2 persones",1987
+2020,3,"Sants-Montjuïc",16,"la Bordeta","2 persones",2442
+2020,3,"Sants-Montjuïc",17,"Sants - Badal","2 persones",2783
+2020,3,"Sants-Montjuïc",18,"Sants","2 persones",4991
+2020,4,"Les Corts",19,"les Corts","2 persones",5346
+2020,4,"Les Corts",20,"la Maternitat i Sant Ramon","2 persones",2634
+2020,4,"Les Corts",21,"Pedralbes","2 persones",1108
+2020,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","2 persones",583
+2020,5,"Sarrià-Sant Gervasi",23,"Sarrià","2 persones",2723
+2020,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","2 persones",1576
+2020,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","2 persones",2703
+2020,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","2 persones",5100
+2020,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","2 persones",3606
+2020,6,"Gràcia",28,"Vallcarca i els Penitents","2 persones",1966
+2020,6,"Gràcia",29,"el Coll","2 persones",957
+2020,6,"Gràcia",30,"la Salut","2 persones",1557
+2020,6,"Gràcia",31,"la Vila de Gràcia","2 persones",7012
+2020,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","2 persones",4347
+2020,7,"Horta-Guinardó",33,"el Baix Guinardó","2 persones",3168
+2020,7,"Horta-Guinardó",34,"Can Baró","2 persones",1174
+2020,7,"Horta-Guinardó",35,"el Guinardó","2 persones",4648
+2020,7,"Horta-Guinardó",36,"la Font d'en Fargues","2 persones",1144
+2020,7,"Horta-Guinardó",37,"el Carmel","2 persones",3818
+2020,7,"Horta-Guinardó",38,"la Teixonera","2 persones",1451
+2020,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","2 persones",836
+2020,7,"Horta-Guinardó",40,"Montbau","2 persones",615
+2020,7,"Horta-Guinardó",41,"la Vall d'Hebron","2 persones",710
+2020,7,"Horta-Guinardó",42,"la Clota","2 persones",113
+2020,7,"Horta-Guinardó",43,"Horta","2 persones",3075
+2020,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","2 persones",2905
+2020,8,"Nou Barris",45,"Porta","2 persones",2852
+2020,8,"Nou Barris",46,"el Turó de la Peira","2 persones",1678
+2020,8,"Nou Barris",47,"Can Peguera","2 persones",258
+2020,8,"Nou Barris",48,"la Guineueta","2 persones",1694
+2020,8,"Nou Barris",49,"Canyelles","2 persones",750
+2020,8,"Nou Barris",50,"les Roquetes","2 persones",1765
+2020,8,"Nou Barris",51,"Verdun","2 persones",1371
+2020,8,"Nou Barris",52,"la Prosperitat","2 persones",2896
+2020,8,"Nou Barris",53,"la Trinitat Nova","2 persones",842
+2020,8,"Nou Barris",54,"Torre Baró","2 persones",302
+2020,8,"Nou Barris",55,"Ciutat Meridiana","2 persones",1048
+2020,8,"Nou Barris",56,"Vallbona","2 persones",162
+2020,9,"Sant Andreu",57,"la Trinitat Vella","2 persones",1058
+2020,9,"Sant Andreu",58,"Baró de Viver","2 persones",305
+2020,9,"Sant Andreu",59,"el Bon Pastor","2 persones",1522
+2020,9,"Sant Andreu",60,"Sant Andreu","2 persones",7783
+2020,9,"Sant Andreu",61,"la Sagrera","2 persones",3439
+2020,9,"Sant Andreu",62,"el Congrés i els Indians","2 persones",1806
+2020,9,"Sant Andreu",63,"Navas","2 persones",2529
+2020,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","2 persones",4724
+2020,10,"Sant Martí",65,"el Clot","2 persones",3308
+2020,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","2 persones",2025
+2020,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","2 persones",1176
+2020,10,"Sant Martí",68,"el Poblenou","2 persones",4824
+2020,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","2 persones",2059
+2020,10,"Sant Martí",70,"el Besòs i el Maresme","2 persones",2361
+2020,10,"Sant Martí",71,"Provençals del Poblenou","2 persones",2926
+2020,10,"Sant Martí",72,"Sant Martí de Provençals","2 persones",2905
+2020,10,"Sant Martí",73,"la Verneda i la Pau","2 persones",3122
+2020,1,"Ciutat Vella",1,"el Raval","3 persones",1988
+2020,1,"Ciutat Vella",2,"el Barri Gòtic","3 persones",723
+2020,1,"Ciutat Vella",3,"la Barceloneta","3 persones",678
+2020,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","3 persones",1009
+2020,2,"Eixample",5,"el Fort Pienc","3 persones",1442
+2020,2,"Eixample",6,"la Sagrada Família","3 persones",2296
+2020,2,"Eixample",7,"la Dreta de l'Eixample","3 persones",1763
+2020,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","3 persones",1769
+2020,2,"Eixample",9,"la Nova Esquerra de l'Eixample","3 persones",2581
+2020,2,"Eixample",10,"Sant Antoni","3 persones",1672
+2020,3,"Sants-Montjuïc",11,"el Poble Sec","3 persones",1873
+2020,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","3 persones",56
+2020,3,"Sants-Montjuïc",13,"la Marina de Port","3 persones",1607
+2020,3,"Sants-Montjuïc",14,"la Font de la Guatlla","3 persones",480
+2020,3,"Sants-Montjuïc",15,"Hostafrancs","3 persones",707
+2020,3,"Sants-Montjuïc",16,"la Bordeta","3 persones",892
+2020,3,"Sants-Montjuïc",17,"Sants - Badal","3 persones",1125
+2020,3,"Sants-Montjuïc",18,"Sants","3 persones",1791
+2020,4,"Les Corts",19,"les Corts","3 persones",1797
+2020,4,"Les Corts",20,"la Maternitat i Sant Ramon","3 persones",950
+2020,4,"Les Corts",21,"Pedralbes","3 persones",395
+2020,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","3 persones",181
+2020,5,"Sarrià-Sant Gervasi",23,"Sarrià","3 persones",882
+2020,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","3 persones",600
+2020,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","3 persones",916
+2020,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","3 persones",1852
+2020,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","3 persones",1181
+2020,6,"Gràcia",28,"Vallcarca i els Penitents","3 persones",614
+2020,6,"Gràcia",29,"el Coll","3 persones",340
+2020,6,"Gràcia",30,"la Salut","3 persones",517
+2020,6,"Gràcia",31,"la Vila de Gràcia","3 persones",1955
+2020,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","3 persones",1391
+2020,7,"Horta-Guinardó",33,"el Baix Guinardó","3 persones",1113
+2020,7,"Horta-Guinardó",34,"Can Baró","3 persones",408
+2020,7,"Horta-Guinardó",35,"el Guinardó","3 persones",1637
+2020,7,"Horta-Guinardó",36,"la Font d'en Fargues","3 persones",416
+2020,7,"Horta-Guinardó",37,"el Carmel","3 persones",1466
+2020,7,"Horta-Guinardó",38,"la Teixonera","3 persones",582
+2020,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","3 persones",291
+2020,7,"Horta-Guinardó",40,"Montbau","3 persones",215
+2020,7,"Horta-Guinardó",41,"la Vall d'Hebron","3 persones",262
+2020,7,"Horta-Guinardó",42,"la Clota","3 persones",24
+2020,7,"Horta-Guinardó",43,"Horta","3 persones",1103
+2020,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","3 persones",1163
+2020,8,"Nou Barris",45,"Porta","3 persones",1103
+2020,8,"Nou Barris",46,"el Turó de la Peira","3 persones",762
+2020,8,"Nou Barris",47,"Can Peguera","3 persones",84
+2020,8,"Nou Barris",48,"la Guineueta","3 persones",614
+2020,8,"Nou Barris",49,"Canyelles","3 persones",339
+2020,8,"Nou Barris",50,"les Roquetes","3 persones",780
+2020,8,"Nou Barris",51,"Verdun","3 persones",583
+2020,8,"Nou Barris",52,"la Prosperitat","3 persones",1274
+2020,8,"Nou Barris",53,"la Trinitat Nova","3 persones",365
+2020,8,"Nou Barris",54,"Torre Baró","3 persones",166
+2020,8,"Nou Barris",55,"Ciutat Meridiana","3 persones",494
+2020,8,"Nou Barris",56,"Vallbona","3 persones",67
+2020,9,"Sant Andreu",57,"la Trinitat Vella","3 persones",497
+2020,9,"Sant Andreu",58,"Baró de Viver","3 persones",134
+2020,9,"Sant Andreu",59,"el Bon Pastor","3 persones",547
+2020,9,"Sant Andreu",60,"Sant Andreu","3 persones",2554
+2020,9,"Sant Andreu",61,"la Sagrera","3 persones",1260
+2020,9,"Sant Andreu",62,"el Congrés i els Indians","3 persones",638
+2020,9,"Sant Andreu",63,"Navas","3 persones",1061
+2020,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","3 persones",1712
+2020,10,"Sant Martí",65,"el Clot","3 persones",1291
+2020,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","3 persones",657
+2020,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","3 persones",443
+2020,10,"Sant Martí",68,"el Poblenou","3 persones",1525
+2020,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","3 persones",518
+2020,10,"Sant Martí",70,"el Besòs i el Maresme","3 persones",1136
+2020,10,"Sant Martí",71,"Provençals del Poblenou","3 persones",1010
+2020,10,"Sant Martí",72,"Sant Martí de Provençals","3 persones",1180
+2020,10,"Sant Martí",73,"la Verneda i la Pau","3 persones",1346
+2020,1,"Ciutat Vella",1,"el Raval","4 o més persones",2510
+2020,1,"Ciutat Vella",2,"el Barri Gòtic","4 o més persones",661
+2020,1,"Ciutat Vella",3,"la Barceloneta","4 o més persones",511
+2020,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","4 o més persones",821
+2020,2,"Eixample",5,"el Fort Pienc","4 o més persones",1117
+2020,2,"Eixample",6,"la Sagrada Família","4 o més persones",1883
+2020,2,"Eixample",7,"la Dreta de l'Eixample","4 o més persones",1469
+2020,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","4 o més persones",1446
+2020,2,"Eixample",9,"la Nova Esquerra de l'Eixample","4 o més persones",1949
+2020,2,"Eixample",10,"Sant Antoni","4 o més persones",1407
+2020,3,"Sants-Montjuïc",11,"el Poble Sec","4 o més persones",1650
+2020,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","4 o més persones",41
+2020,3,"Sants-Montjuïc",13,"la Marina de Port","4 o més persones",1118
+2020,3,"Sants-Montjuïc",14,"la Font de la Guatlla","4 o més persones",364
+2020,3,"Sants-Montjuïc",15,"Hostafrancs","4 o més persones",562
+2020,3,"Sants-Montjuïc",16,"la Bordeta","4 o més persones",572
+2020,3,"Sants-Montjuïc",17,"Sants - Badal","4 o més persones",888
+2020,3,"Sants-Montjuïc",18,"Sants","4 o més persones",1304
+2020,4,"Les Corts",19,"les Corts","4 o més persones",1258
+2020,4,"Les Corts",20,"la Maternitat i Sant Ramon","4 o més persones",737
+2020,4,"Les Corts",21,"Pedralbes","4 o més persones",403
+2020,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","4 o més persones",170
+2020,5,"Sarrià-Sant Gervasi",23,"Sarrià","4 o més persones",752
+2020,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","4 o més persones",648
+2020,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","4 o més persones",862
+2020,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","4 o més persones",1660
+2020,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","4 o més persones",965
+2020,6,"Gràcia",28,"Vallcarca i els Penitents","4 o més persones",468
+2020,6,"Gràcia",29,"el Coll","4 o més persones",219
+2020,6,"Gràcia",30,"la Salut","4 o més persones",371
+2020,6,"Gràcia",31,"la Vila de Gràcia","4 o més persones",1339
+2020,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","4 o més persones",940
+2020,7,"Horta-Guinardó",33,"el Baix Guinardó","4 o més persones",765
+2020,7,"Horta-Guinardó",34,"Can Baró","4 o més persones",268
+2020,7,"Horta-Guinardó",35,"el Guinardó","4 o més persones",1122
+2020,7,"Horta-Guinardó",36,"la Font d'en Fargues","4 o més persones",250
+2020,7,"Horta-Guinardó",37,"el Carmel","4 o més persones",1043
+2020,7,"Horta-Guinardó",38,"la Teixonera","4 o més persones",358
+2020,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","4 o més persones",249
+2020,7,"Horta-Guinardó",40,"Montbau","4 o més persones",144
+2020,7,"Horta-Guinardó",41,"la Vall d'Hebron","4 o més persones",146
+2020,7,"Horta-Guinardó",42,"la Clota","4 o més persones",21
+2020,7,"Horta-Guinardó",43,"Horta","4 o més persones",744
+2020,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","4 o més persones",835
+2020,8,"Nou Barris",45,"Porta","4 o més persones",739
+2020,8,"Nou Barris",46,"el Turó de la Peira","4 o més persones",598
+2020,8,"Nou Barris",47,"Can Peguera","4 o més persones",59
+2020,8,"Nou Barris",48,"la Guineueta","4 o més persones",420
+2020,8,"Nou Barris",49,"Canyelles","4 o més persones",165
+2020,8,"Nou Barris",50,"les Roquetes","4 o més persones",638
+2020,8,"Nou Barris",51,"Verdun","4 o més persones",441
+2020,8,"Nou Barris",52,"la Prosperitat","4 o més persones",847
+2020,8,"Nou Barris",53,"la Trinitat Nova","4 o més persones",289
+2020,8,"Nou Barris",54,"Torre Baró","4 o més persones",115
+2020,8,"Nou Barris",55,"Ciutat Meridiana","4 o més persones",513
+2020,8,"Nou Barris",56,"Vallbona","4 o més persones",39
+2020,9,"Sant Andreu",57,"la Trinitat Vella","4 o més persones",453
+2020,9,"Sant Andreu",58,"Baró de Viver","4 o més persones",87
+2020,9,"Sant Andreu",59,"el Bon Pastor","4 o més persones",380
+2020,9,"Sant Andreu",60,"Sant Andreu","4 o més persones",1430
+2020,9,"Sant Andreu",61,"la Sagrera","4 o més persones",913
+2020,9,"Sant Andreu",62,"el Congrés i els Indians","4 o més persones",478
+2020,9,"Sant Andreu",63,"Navas","4 o més persones",747
+2020,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","4 o més persones",1246
+2020,10,"Sant Martí",65,"el Clot","4 o més persones",905
+2020,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","4 o més persones",469
+2020,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","4 o més persones",363
+2020,10,"Sant Martí",68,"el Poblenou","4 o més persones",949
+2020,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","4 o més persones",266
+2020,10,"Sant Martí",70,"el Besòs i el Maresme","4 o més persones",903
+2020,10,"Sant Martí",71,"Provençals del Poblenou","4 o més persones",629
+2020,10,"Sant Martí",72,"Sant Martí de Provençals","4 o més persones",772

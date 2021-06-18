@@ -1,0 +1,511 @@
+"Any","Codi_Districte","Nom_Districte","Codi_Barri","Nom_Barri","Tipus_Discapacitat","Nombre"
+2016,1,"Ciutat Vella",1,"el Raval","Físics Motrius",1089
+2016,1,"Ciutat Vella",2,"el Barri Gòtic","Físics Motrius",359
+2016,1,"Ciutat Vella",3,"la Barceloneta","Físics Motrius",475
+2016,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Físics Motrius",521
+2016,2,"Eixample",5,"el Fort Pienc","Físics Motrius",802
+2016,2,"Eixample",6,"la Sagrada Família","Físics Motrius",1442
+2016,2,"Eixample",7,"la Dreta de l'Eixample","Físics Motrius",1085
+2016,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Físics Motrius",1042
+2016,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Físics Motrius",1647
+2016,2,"Eixample",10,"Sant Antoni","Físics Motrius",1126
+2016,3,"Sants-Montjuïc",11,"el Poble Sec","Físics Motrius",1133
+2016,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Físics Motrius",89
+2016,3,"Sants-Montjuïc",13,"la Marina de Port","Físics Motrius",1322
+2016,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Físics Motrius",363
+2016,3,"Sants-Montjuïc",15,"Hostafrancs","Físics Motrius",482
+2016,3,"Sants-Montjuïc",16,"la Bordeta","Físics Motrius",602
+2016,3,"Sants-Montjuïc",17,"Sants - Badal","Físics Motrius",694
+2016,3,"Sants-Montjuïc",18,"Sants","Físics Motrius",1190
+2016,4,"Les Corts",19,"les Corts","Físics Motrius",1245
+2016,4,"Les Corts",20,"la Maternitat i Sant Ramon","Físics Motrius",752
+2016,4,"Les Corts",21,"Pedralbes","Físics Motrius",270
+2016,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Físics Motrius",68
+2016,5,"Sarrià-Sant Gervasi",23,"Sarrià","Físics Motrius",498
+2016,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Físics Motrius",307
+2016,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Físics Motrius",491
+2016,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Físics Motrius",956
+2016,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Físics Motrius",606
+2016,6,"Gràcia",28,"Vallcarca i els Penitents","Físics Motrius",434
+2016,6,"Gràcia",29,"el Coll","Físics Motrius",246
+2016,6,"Gràcia",30,"la Salut","Físics Motrius",359
+2016,6,"Gràcia",31,"la Vila de Gràcia","Físics Motrius",1175
+2016,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Físics Motrius",935
+2016,7,"Horta-Guinardó",33,"el Baix Guinardó","Físics Motrius",725
+2016,7,"Horta-Guinardó",34,"Can Baró","Físics Motrius",268
+2016,7,"Horta-Guinardó",35,"el Guinardó","Físics Motrius",990
+2016,7,"Horta-Guinardó",36,"la Font d'en Fargues","Físics Motrius",273
+2016,7,"Horta-Guinardó",37,"el Carmel","Físics Motrius",1128
+2016,7,"Horta-Guinardó",38,"la Teixonera","Físics Motrius",376
+2016,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Físics Motrius",214
+2016,7,"Horta-Guinardó",40,"Montbau","Físics Motrius",190
+2016,7,"Horta-Guinardó",41,"la Vall d'Hebron","Físics Motrius",157
+2016,7,"Horta-Guinardó",42,"la Clota","Físics Motrius",16
+2016,7,"Horta-Guinardó",43,"Horta","Físics Motrius",858
+2016,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Físics Motrius",796
+2016,8,"Nou Barris",45,"Porta","Físics Motrius",921
+2016,8,"Nou Barris",46,"el Turó de la Peira","Físics Motrius",584
+2016,8,"Nou Barris",47,"Can Peguera","Físics Motrius",106
+2016,8,"Nou Barris",48,"la Guineueta","Físics Motrius",671
+2016,8,"Nou Barris",49,"Canyelles","Físics Motrius",342
+2016,8,"Nou Barris",50,"les Roquetes","Físics Motrius",564
+2016,8,"Nou Barris",51,"Verdun","Físics Motrius",435
+2016,8,"Nou Barris",52,"la Prosperitat","Físics Motrius",926
+2016,8,"Nou Barris",53,"la Trinitat Nova","Físics Motrius",290
+2016,8,"Nou Barris",54,"Torre Baró","Físics Motrius",137
+2016,8,"Nou Barris",55,"Ciutat Meridiana","Físics Motrius",401
+2016,8,"Nou Barris",56,"Vallbona","Físics Motrius",63
+2016,9,"Sant Andreu",57,"la Trinitat Vella","Físics Motrius",313
+2016,9,"Sant Andreu",58,"Baró de Viver","Físics Motrius",115
+2016,9,"Sant Andreu",59,"el Bon Pastor","Físics Motrius",373
+2016,9,"Sant Andreu",60,"Sant Andreu","Físics Motrius",1875
+2016,9,"Sant Andreu",61,"la Sagrera","Físics Motrius",914
+2016,9,"Sant Andreu",62,"el Congrés i els Indians","Físics Motrius",495
+2016,9,"Sant Andreu",63,"Navas","Físics Motrius",730
+2016,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Físics Motrius",1107
+2016,10,"Sant Martí",65,"el Clot","Físics Motrius",728
+2016,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Físics Motrius",422
+2016,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Físics Motrius",164
+2016,10,"Sant Martí",68,"el Poblenou","Físics Motrius",868
+2016,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Físics Motrius",284
+2016,10,"Sant Martí",70,"el Besòs i el Maresme","Físics Motrius",712
+2016,10,"Sant Martí",71,"Provençals del Poblenou","Físics Motrius",587
+2016,10,"Sant Martí",72,"Sant Martí de Provençals","Físics Motrius",900
+2016,10,"Sant Martí",73,"la Verneda i la Pau","Físics Motrius",1108
+2016,1,"Ciutat Vella",1,"el Raval","Físics No Motrius",1098
+2016,1,"Ciutat Vella",2,"el Barri Gòtic","Físics No Motrius",377
+2016,1,"Ciutat Vella",3,"la Barceloneta","Físics No Motrius",392
+2016,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Físics No Motrius",418
+2016,2,"Eixample",5,"el Fort Pienc","Físics No Motrius",468
+2016,2,"Eixample",6,"la Sagrada Família","Físics No Motrius",887
+2016,2,"Eixample",7,"la Dreta de l'Eixample","Físics No Motrius",582
+2016,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Físics No Motrius",662
+2016,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Físics No Motrius",1008
+2016,2,"Eixample",10,"Sant Antoni","Físics No Motrius",692
+2016,3,"Sants-Montjuïc",11,"el Poble Sec","Físics No Motrius",802
+2016,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Físics No Motrius",48
+2016,3,"Sants-Montjuïc",13,"la Marina de Port","Físics No Motrius",874
+2016,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Físics No Motrius",219
+2016,3,"Sants-Montjuïc",15,"Hostafrancs","Físics No Motrius",302
+2016,3,"Sants-Montjuïc",16,"la Bordeta","Físics No Motrius",359
+2016,3,"Sants-Montjuïc",17,"Sants - Badal","Físics No Motrius",434
+2016,3,"Sants-Montjuïc",18,"Sants","Físics No Motrius",760
+2016,4,"Les Corts",19,"les Corts","Físics No Motrius",778
+2016,4,"Les Corts",20,"la Maternitat i Sant Ramon","Físics No Motrius",496
+2016,4,"Les Corts",21,"Pedralbes","Físics No Motrius",154
+2016,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Físics No Motrius",60
+2016,5,"Sarrià-Sant Gervasi",23,"Sarrià","Físics No Motrius",286
+2016,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Físics No Motrius",153
+2016,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Físics No Motrius",323
+2016,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Físics No Motrius",585
+2016,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Físics No Motrius",385
+2016,6,"Gràcia",28,"Vallcarca i els Penitents","Físics No Motrius",252
+2016,6,"Gràcia",29,"el Coll","Físics No Motrius",144
+2016,6,"Gràcia",30,"la Salut","Físics No Motrius",212
+2016,6,"Gràcia",31,"la Vila de Gràcia","Físics No Motrius",783
+2016,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Físics No Motrius",586
+2016,7,"Horta-Guinardó",33,"el Baix Guinardó","Físics No Motrius",446
+2016,7,"Horta-Guinardó",34,"Can Baró","Físics No Motrius",156
+2016,7,"Horta-Guinardó",35,"el Guinardó","Físics No Motrius",639
+2016,7,"Horta-Guinardó",36,"la Font d'en Fargues","Físics No Motrius",172
+2016,7,"Horta-Guinardó",37,"el Carmel","Físics No Motrius",727
+2016,7,"Horta-Guinardó",38,"la Teixonera","Físics No Motrius",239
+2016,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Físics No Motrius",153
+2016,7,"Horta-Guinardó",40,"Montbau","Físics No Motrius",127
+2016,7,"Horta-Guinardó",41,"la Vall d'Hebron","Físics No Motrius",111
+2016,7,"Horta-Guinardó",42,"la Clota","Físics No Motrius",10
+2016,7,"Horta-Guinardó",43,"Horta","Físics No Motrius",553
+2016,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Físics No Motrius",518
+2016,8,"Nou Barris",45,"Porta","Físics No Motrius",563
+2016,8,"Nou Barris",46,"el Turó de la Peira","Físics No Motrius",351
+2016,8,"Nou Barris",47,"Can Peguera","Físics No Motrius",79
+2016,8,"Nou Barris",48,"la Guineueta","Físics No Motrius",409
+2016,8,"Nou Barris",49,"Canyelles","Físics No Motrius",217
+2016,8,"Nou Barris",50,"les Roquetes","Físics No Motrius",412
+2016,8,"Nou Barris",51,"Verdun","Físics No Motrius",330
+2016,8,"Nou Barris",52,"la Prosperitat","Físics No Motrius",619
+2016,8,"Nou Barris",53,"la Trinitat Nova","Físics No Motrius",214
+2016,8,"Nou Barris",54,"Torre Baró","Físics No Motrius",93
+2016,8,"Nou Barris",55,"Ciutat Meridiana","Físics No Motrius",293
+2016,8,"Nou Barris",56,"Vallbona","Físics No Motrius",42
+2016,9,"Sant Andreu",57,"la Trinitat Vella","Físics No Motrius",200
+2016,9,"Sant Andreu",58,"Baró de Viver","Físics No Motrius",71
+2016,9,"Sant Andreu",59,"el Bon Pastor","Físics No Motrius",286
+2016,9,"Sant Andreu",60,"Sant Andreu","Físics No Motrius",1116
+2016,9,"Sant Andreu",61,"la Sagrera","Físics No Motrius",578
+2016,9,"Sant Andreu",62,"el Congrés i els Indians","Físics No Motrius",264
+2016,9,"Sant Andreu",63,"Navas","Físics No Motrius",381
+2016,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Físics No Motrius",696
+2016,10,"Sant Martí",65,"el Clot","Físics No Motrius",473
+2016,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Físics No Motrius",299
+2016,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Físics No Motrius",89
+2016,10,"Sant Martí",68,"el Poblenou","Físics No Motrius",519
+2016,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Físics No Motrius",189
+2016,10,"Sant Martí",70,"el Besòs i el Maresme","Físics No Motrius",486
+2016,10,"Sant Martí",71,"Provençals del Poblenou","Físics No Motrius",418
+2016,10,"Sant Martí",72,"Sant Martí de Provençals","Físics No Motrius",591
+2016,10,"Sant Martí",73,"la Verneda i la Pau","Físics No Motrius",749
+2016,1,"Ciutat Vella",1,"el Raval","Malaltia Mental",954
+2016,1,"Ciutat Vella",2,"el Barri Gòtic","Malaltia Mental",284
+2016,1,"Ciutat Vella",3,"la Barceloneta","Malaltia Mental",305
+2016,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Malaltia Mental",354
+2016,2,"Eixample",5,"el Fort Pienc","Malaltia Mental",410
+2016,2,"Eixample",6,"la Sagrada Família","Malaltia Mental",858
+2016,2,"Eixample",7,"la Dreta de l'Eixample","Malaltia Mental",662
+2016,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Malaltia Mental",624
+2016,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Malaltia Mental",997
+2016,2,"Eixample",10,"Sant Antoni","Malaltia Mental",620
+2016,3,"Sants-Montjuïc",11,"el Poble Sec","Malaltia Mental",682
+2016,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Malaltia Mental",42
+2016,3,"Sants-Montjuïc",13,"la Marina de Port","Malaltia Mental",720
+2016,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Malaltia Mental",225
+2016,3,"Sants-Montjuïc",15,"Hostafrancs","Malaltia Mental",333
+2016,3,"Sants-Montjuïc",16,"la Bordeta","Malaltia Mental",299
+2016,3,"Sants-Montjuïc",17,"Sants - Badal","Malaltia Mental",387
+2016,3,"Sants-Montjuïc",18,"Sants","Malaltia Mental",643
+2016,4,"Les Corts",19,"les Corts","Malaltia Mental",715
+2016,4,"Les Corts",20,"la Maternitat i Sant Ramon","Malaltia Mental",377
+2016,4,"Les Corts",21,"Pedralbes","Malaltia Mental",152
+2016,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Malaltia Mental",45
+2016,5,"Sarrià-Sant Gervasi",23,"Sarrià","Malaltia Mental",274
+2016,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Malaltia Mental",158
+2016,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Malaltia Mental",331
+2016,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Malaltia Mental",507
+2016,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Malaltia Mental",368
+2016,6,"Gràcia",28,"Vallcarca i els Penitents","Malaltia Mental",270
+2016,6,"Gràcia",29,"el Coll","Malaltia Mental",172
+2016,6,"Gràcia",30,"la Salut","Malaltia Mental",227
+2016,6,"Gràcia",31,"la Vila de Gràcia","Malaltia Mental",851
+2016,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Malaltia Mental",520
+2016,7,"Horta-Guinardó",33,"el Baix Guinardó","Malaltia Mental",395
+2016,7,"Horta-Guinardó",34,"Can Baró","Malaltia Mental",181
+2016,7,"Horta-Guinardó",35,"el Guinardó","Malaltia Mental",580
+2016,7,"Horta-Guinardó",36,"la Font d'en Fargues","Malaltia Mental",140
+2016,7,"Horta-Guinardó",37,"el Carmel","Malaltia Mental",620
+2016,7,"Horta-Guinardó",38,"la Teixonera","Malaltia Mental",199
+2016,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Malaltia Mental",118
+2016,7,"Horta-Guinardó",40,"Montbau","Malaltia Mental",122
+2016,7,"Horta-Guinardó",41,"la Vall d'Hebron","Malaltia Mental",102
+2016,7,"Horta-Guinardó",42,"la Clota","Malaltia Mental",11
+2016,7,"Horta-Guinardó",43,"Horta","Malaltia Mental",466
+2016,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Malaltia Mental",445
+2016,8,"Nou Barris",45,"Porta","Malaltia Mental",491
+2016,8,"Nou Barris",46,"el Turó de la Peira","Malaltia Mental",261
+2016,8,"Nou Barris",47,"Can Peguera","Malaltia Mental",95
+2016,8,"Nou Barris",48,"la Guineueta","Malaltia Mental",366
+2016,8,"Nou Barris",49,"Canyelles","Malaltia Mental",182
+2016,8,"Nou Barris",50,"les Roquetes","Malaltia Mental",369
+2016,8,"Nou Barris",51,"Verdun","Malaltia Mental",265
+2016,8,"Nou Barris",52,"la Prosperitat","Malaltia Mental",495
+2016,8,"Nou Barris",53,"la Trinitat Nova","Malaltia Mental",177
+2016,8,"Nou Barris",54,"Torre Baró","Malaltia Mental",86
+2016,8,"Nou Barris",55,"Ciutat Meridiana","Malaltia Mental",212
+2016,8,"Nou Barris",56,"Vallbona","Malaltia Mental",62
+2016,9,"Sant Andreu",57,"la Trinitat Vella","Malaltia Mental",195
+2016,9,"Sant Andreu",58,"Baró de Viver","Malaltia Mental",101
+2016,9,"Sant Andreu",59,"el Bon Pastor","Malaltia Mental",301
+2016,9,"Sant Andreu",60,"Sant Andreu","Malaltia Mental",929
+2016,9,"Sant Andreu",61,"la Sagrera","Malaltia Mental",506
+2016,9,"Sant Andreu",62,"el Congrés i els Indians","Malaltia Mental",271
+2016,9,"Sant Andreu",63,"Navas","Malaltia Mental",329
+2016,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Malaltia Mental",672
+2016,10,"Sant Martí",65,"el Clot","Malaltia Mental",387
+2016,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Malaltia Mental",350
+2016,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Malaltia Mental",69
+2016,10,"Sant Martí",68,"el Poblenou","Malaltia Mental",449
+2016,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Malaltia Mental",152
+2016,10,"Sant Martí",70,"el Besòs i el Maresme","Malaltia Mental",461
+2016,10,"Sant Martí",71,"Provençals del Poblenou","Malaltia Mental",295
+2016,10,"Sant Martí",72,"Sant Martí de Provençals","Malaltia Mental",535
+2016,10,"Sant Martí",73,"la Verneda i la Pau","Malaltia Mental",591
+2016,1,"Ciutat Vella",1,"el Raval","Intel·lectual",277
+2016,1,"Ciutat Vella",2,"el Barri Gòtic","Intel·lectual",84
+2016,1,"Ciutat Vella",3,"la Barceloneta","Intel·lectual",110
+2016,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Intel·lectual",166
+2016,2,"Eixample",5,"el Fort Pienc","Intel·lectual",149
+2016,2,"Eixample",6,"la Sagrada Família","Intel·lectual",244
+2016,2,"Eixample",7,"la Dreta de l'Eixample","Intel·lectual",194
+2016,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Intel·lectual",163
+2016,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Intel·lectual",264
+2016,2,"Eixample",10,"Sant Antoni","Intel·lectual",198
+2016,3,"Sants-Montjuïc",11,"el Poble Sec","Intel·lectual",266
+2016,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Intel·lectual",35
+2016,3,"Sants-Montjuïc",13,"la Marina de Port","Intel·lectual",234
+2016,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Intel·lectual",196
+2016,3,"Sants-Montjuïc",15,"Hostafrancs","Intel·lectual",79
+2016,3,"Sants-Montjuïc",16,"la Bordeta","Intel·lectual",102
+2016,3,"Sants-Montjuïc",17,"Sants - Badal","Intel·lectual",109
+2016,3,"Sants-Montjuïc",18,"Sants","Intel·lectual",258
+2016,4,"Les Corts",19,"les Corts","Intel·lectual",194
+2016,4,"Les Corts",20,"la Maternitat i Sant Ramon","Intel·lectual",101
+2016,4,"Les Corts",21,"Pedralbes","Intel·lectual",54
+2016,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Intel·lectual",33
+2016,5,"Sarrià-Sant Gervasi",23,"Sarrià","Intel·lectual",122
+2016,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Intel·lectual",51
+2016,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Intel·lectual",136
+2016,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Intel·lectual",172
+2016,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Intel·lectual",120
+2016,6,"Gràcia",28,"Vallcarca i els Penitents","Intel·lectual",79
+2016,6,"Gràcia",29,"el Coll","Intel·lectual",39
+2016,6,"Gràcia",30,"la Salut","Intel·lectual",135
+2016,6,"Gràcia",31,"la Vila de Gràcia","Intel·lectual",262
+2016,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Intel·lectual",193
+2016,7,"Horta-Guinardó",33,"el Baix Guinardó","Intel·lectual",110
+2016,7,"Horta-Guinardó",34,"Can Baró","Intel·lectual",56
+2016,7,"Horta-Guinardó",35,"el Guinardó","Intel·lectual",196
+2016,7,"Horta-Guinardó",36,"la Font d'en Fargues","Intel·lectual",48
+2016,7,"Horta-Guinardó",37,"el Carmel","Intel·lectual",231
+2016,7,"Horta-Guinardó",38,"la Teixonera","Intel·lectual",74
+2016,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Intel·lectual",39
+2016,7,"Horta-Guinardó",40,"Montbau","Intel·lectual",44
+2016,7,"Horta-Guinardó",41,"la Vall d'Hebron","Intel·lectual",36
+2016,7,"Horta-Guinardó",42,"la Clota","Intel·lectual",4
+2016,7,"Horta-Guinardó",43,"Horta","Intel·lectual",163
+2016,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Intel·lectual",182
+2016,8,"Nou Barris",45,"Porta","Intel·lectual",177
+2016,8,"Nou Barris",46,"el Turó de la Peira","Intel·lectual",88
+2016,8,"Nou Barris",47,"Can Peguera","Intel·lectual",35
+2016,8,"Nou Barris",48,"la Guineueta","Intel·lectual",138
+2016,8,"Nou Barris",49,"Canyelles","Intel·lectual",57
+2016,8,"Nou Barris",50,"les Roquetes","Intel·lectual",140
+2016,8,"Nou Barris",51,"Verdun","Intel·lectual",107
+2016,8,"Nou Barris",52,"la Prosperitat","Intel·lectual",141
+2016,8,"Nou Barris",53,"la Trinitat Nova","Intel·lectual",76
+2016,8,"Nou Barris",54,"Torre Baró","Intel·lectual",54
+2016,8,"Nou Barris",55,"Ciutat Meridiana","Intel·lectual",104
+2016,8,"Nou Barris",56,"Vallbona","Intel·lectual",17
+2016,9,"Sant Andreu",57,"la Trinitat Vella","Intel·lectual",107
+2016,9,"Sant Andreu",58,"Baró de Viver","Intel·lectual",40
+2016,9,"Sant Andreu",59,"el Bon Pastor","Intel·lectual",104
+2016,9,"Sant Andreu",60,"Sant Andreu","Intel·lectual",321
+2016,9,"Sant Andreu",61,"la Sagrera","Intel·lectual",183
+2016,9,"Sant Andreu",62,"el Congrés i els Indians","Intel·lectual",106
+2016,9,"Sant Andreu",63,"Navas","Intel·lectual",111
+2016,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Intel·lectual",216
+2016,10,"Sant Martí",65,"el Clot","Intel·lectual",159
+2016,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Intel·lectual",100
+2016,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Intel·lectual",36
+2016,10,"Sant Martí",68,"el Poblenou","Intel·lectual",192
+2016,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Intel·lectual",67
+2016,10,"Sant Martí",70,"el Besòs i el Maresme","Intel·lectual",193
+2016,10,"Sant Martí",71,"Provençals del Poblenou","Intel·lectual",139
+2016,10,"Sant Martí",72,"Sant Martí de Provençals","Intel·lectual",177
+2016,10,"Sant Martí",73,"la Verneda i la Pau","Intel·lectual",223
+2016,1,"Ciutat Vella",1,"el Raval","Visuals",260
+2016,1,"Ciutat Vella",2,"el Barri Gòtic","Visuals",83
+2016,1,"Ciutat Vella",3,"la Barceloneta","Visuals",95
+2016,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Visuals",139
+2016,2,"Eixample",5,"el Fort Pienc","Visuals",168
+2016,2,"Eixample",6,"la Sagrada Família","Visuals",276
+2016,2,"Eixample",7,"la Dreta de l'Eixample","Visuals",235
+2016,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Visuals",228
+2016,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Visuals",357
+2016,2,"Eixample",10,"Sant Antoni","Visuals",261
+2016,3,"Sants-Montjuïc",11,"el Poble Sec","Visuals",239
+2016,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Visuals",11
+2016,3,"Sants-Montjuïc",13,"la Marina de Port","Visuals",199
+2016,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Visuals",70
+2016,3,"Sants-Montjuïc",15,"Hostafrancs","Visuals",89
+2016,3,"Sants-Montjuïc",16,"la Bordeta","Visuals",104
+2016,3,"Sants-Montjuïc",17,"Sants - Badal","Visuals",173
+2016,3,"Sants-Montjuïc",18,"Sants","Visuals",229
+2016,4,"Les Corts",19,"les Corts","Visuals",223
+2016,4,"Les Corts",20,"la Maternitat i Sant Ramon","Visuals",126
+2016,4,"Les Corts",21,"Pedralbes","Visuals",30
+2016,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Visuals",15
+2016,5,"Sarrià-Sant Gervasi",23,"Sarrià","Visuals",94
+2016,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Visuals",43
+2016,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Visuals",95
+2016,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Visuals",179
+2016,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Visuals",135
+2016,6,"Gràcia",28,"Vallcarca i els Penitents","Visuals",76
+2016,6,"Gràcia",29,"el Coll","Visuals",40
+2016,6,"Gràcia",30,"la Salut","Visuals",63
+2016,6,"Gràcia",31,"la Vila de Gràcia","Visuals",263
+2016,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Visuals",174
+2016,7,"Horta-Guinardó",33,"el Baix Guinardó","Visuals",168
+2016,7,"Horta-Guinardó",34,"Can Baró","Visuals",57
+2016,7,"Horta-Guinardó",35,"el Guinardó","Visuals",188
+2016,7,"Horta-Guinardó",36,"la Font d'en Fargues","Visuals",39
+2016,7,"Horta-Guinardó",37,"el Carmel","Visuals",187
+2016,7,"Horta-Guinardó",38,"la Teixonera","Visuals",63
+2016,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Visuals",39
+2016,7,"Horta-Guinardó",40,"Montbau","Visuals",40
+2016,7,"Horta-Guinardó",41,"la Vall d'Hebron","Visuals",27
+2016,7,"Horta-Guinardó",42,"la Clota","Visuals",0
+2016,7,"Horta-Guinardó",43,"Horta","Visuals",172
+2016,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Visuals",175
+2016,8,"Nou Barris",45,"Porta","Visuals",165
+2016,8,"Nou Barris",46,"el Turó de la Peira","Visuals",110
+2016,8,"Nou Barris",47,"Can Peguera","Visuals",21
+2016,8,"Nou Barris",48,"la Guineueta","Visuals",104
+2016,8,"Nou Barris",49,"Canyelles","Visuals",56
+2016,8,"Nou Barris",50,"les Roquetes","Visuals",105
+2016,8,"Nou Barris",51,"Verdun","Visuals",106
+2016,8,"Nou Barris",52,"la Prosperitat","Visuals",196
+2016,8,"Nou Barris",53,"la Trinitat Nova","Visuals",51
+2016,8,"Nou Barris",54,"Torre Baró","Visuals",22
+2016,8,"Nou Barris",55,"Ciutat Meridiana","Visuals",85
+2016,8,"Nou Barris",56,"Vallbona","Visuals",6
+2016,9,"Sant Andreu",57,"la Trinitat Vella","Visuals",52
+2016,9,"Sant Andreu",58,"Baró de Viver","Visuals",30
+2016,9,"Sant Andreu",59,"el Bon Pastor","Visuals",81
+2016,9,"Sant Andreu",60,"Sant Andreu","Visuals",361
+2016,9,"Sant Andreu",61,"la Sagrera","Visuals",188
+2016,9,"Sant Andreu",62,"el Congrés i els Indians","Visuals",92
+2016,9,"Sant Andreu",63,"Navas","Visuals",133
+2016,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Visuals",242
+2016,10,"Sant Martí",65,"el Clot","Visuals",148
+2016,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Visuals",72
+2016,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Visuals",27
+2016,10,"Sant Martí",68,"el Poblenou","Visuals",160
+2016,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Visuals",55
+2016,10,"Sant Martí",70,"el Besòs i el Maresme","Visuals",166
+2016,10,"Sant Martí",71,"Provençals del Poblenou","Visuals",107
+2016,10,"Sant Martí",72,"Sant Martí de Provençals","Visuals",172
+2016,10,"Sant Martí",73,"la Verneda i la Pau","Visuals",229
+2016,1,"Ciutat Vella",1,"el Raval","Auditius",167
+2016,1,"Ciutat Vella",2,"el Barri Gòtic","Auditius",73
+2016,1,"Ciutat Vella",3,"la Barceloneta","Auditius",66
+2016,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Auditius",80
+2016,2,"Eixample",5,"el Fort Pienc","Auditius",129
+2016,2,"Eixample",6,"la Sagrada Família","Auditius",221
+2016,2,"Eixample",7,"la Dreta de l'Eixample","Auditius",177
+2016,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Auditius",173
+2016,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Auditius",257
+2016,2,"Eixample",10,"Sant Antoni","Auditius",181
+2016,3,"Sants-Montjuïc",11,"el Poble Sec","Auditius",199
+2016,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Auditius",4
+2016,3,"Sants-Montjuïc",13,"la Marina de Port","Auditius",201
+2016,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Auditius",58
+2016,3,"Sants-Montjuïc",15,"Hostafrancs","Auditius",70
+2016,3,"Sants-Montjuïc",16,"la Bordeta","Auditius",101
+2016,3,"Sants-Montjuïc",17,"Sants - Badal","Auditius",138
+2016,3,"Sants-Montjuïc",18,"Sants","Auditius",167
+2016,4,"Les Corts",19,"les Corts","Auditius",194
+2016,4,"Les Corts",20,"la Maternitat i Sant Ramon","Auditius",97
+2016,4,"Les Corts",21,"Pedralbes","Auditius",27
+2016,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Auditius",14
+2016,5,"Sarrià-Sant Gervasi",23,"Sarrià","Auditius",53
+2016,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Auditius",54
+2016,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Auditius",71
+2016,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Auditius",145
+2016,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Auditius",96
+2016,6,"Gràcia",28,"Vallcarca i els Penitents","Auditius",76
+2016,6,"Gràcia",29,"el Coll","Auditius",23
+2016,6,"Gràcia",30,"la Salut","Auditius",68
+2016,6,"Gràcia",31,"la Vila de Gràcia","Auditius",168
+2016,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Auditius",161
+2016,7,"Horta-Guinardó",33,"el Baix Guinardó","Auditius",94
+2016,7,"Horta-Guinardó",34,"Can Baró","Auditius",40
+2016,7,"Horta-Guinardó",35,"el Guinardó","Auditius",154
+2016,7,"Horta-Guinardó",36,"la Font d'en Fargues","Auditius",38
+2016,7,"Horta-Guinardó",37,"el Carmel","Auditius",161
+2016,7,"Horta-Guinardó",38,"la Teixonera","Auditius",69
+2016,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Auditius",42
+2016,7,"Horta-Guinardó",40,"Montbau","Auditius",24
+2016,7,"Horta-Guinardó",41,"la Vall d'Hebron","Auditius",22
+2016,7,"Horta-Guinardó",42,"la Clota","Auditius",1
+2016,7,"Horta-Guinardó",43,"Horta","Auditius",119
+2016,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Auditius",137
+2016,8,"Nou Barris",45,"Porta","Auditius",152
+2016,8,"Nou Barris",46,"el Turó de la Peira","Auditius",86
+2016,8,"Nou Barris",47,"Can Peguera","Auditius",9
+2016,8,"Nou Barris",48,"la Guineueta","Auditius",97
+2016,8,"Nou Barris",49,"Canyelles","Auditius",46
+2016,8,"Nou Barris",50,"les Roquetes","Auditius",88
+2016,8,"Nou Barris",51,"Verdun","Auditius",66
+2016,8,"Nou Barris",52,"la Prosperitat","Auditius",129
+2016,8,"Nou Barris",53,"la Trinitat Nova","Auditius",42
+2016,8,"Nou Barris",54,"Torre Baró","Auditius",12
+2016,8,"Nou Barris",55,"Ciutat Meridiana","Auditius",69
+2016,8,"Nou Barris",56,"Vallbona","Auditius",8
+2016,9,"Sant Andreu",57,"la Trinitat Vella","Auditius",35
+2016,9,"Sant Andreu",58,"Baró de Viver","Auditius",17
+2016,9,"Sant Andreu",59,"el Bon Pastor","Auditius",54
+2016,9,"Sant Andreu",60,"Sant Andreu","Auditius",287
+2016,9,"Sant Andreu",61,"la Sagrera","Auditius",128
+2016,9,"Sant Andreu",62,"el Congrés i els Indians","Auditius",67
+2016,9,"Sant Andreu",63,"Navas","Auditius",121
+2016,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Auditius",190
+2016,10,"Sant Martí",65,"el Clot","Auditius",115
+2016,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Auditius",72
+2016,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Auditius",23
+2016,10,"Sant Martí",68,"el Poblenou","Auditius",120
+2016,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Auditius",48
+2016,10,"Sant Martí",70,"el Besòs i el Maresme","Auditius",130
+2016,10,"Sant Martí",71,"Provençals del Poblenou","Auditius",96
+2016,10,"Sant Martí",72,"Sant Martí de Provençals","Auditius",142
+2016,10,"Sant Martí",73,"la Verneda i la Pau","Auditius",209
+2016,1,"Ciutat Vella",1,"el Raval","No consta",33
+2016,1,"Ciutat Vella",2,"el Barri Gòtic","No consta",8
+2016,1,"Ciutat Vella",3,"la Barceloneta","No consta",18
+2016,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","No consta",15
+2016,2,"Eixample",5,"el Fort Pienc","No consta",13
+2016,2,"Eixample",6,"la Sagrada Família","No consta",32
+2016,2,"Eixample",7,"la Dreta de l'Eixample","No consta",24
+2016,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","No consta",26
+2016,2,"Eixample",9,"la Nova Esquerra de l'Eixample","No consta",33
+2016,2,"Eixample",10,"Sant Antoni","No consta",20
+2016,3,"Sants-Montjuïc",11,"el Poble Sec","No consta",22
+2016,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","No consta",1
+2016,3,"Sants-Montjuïc",13,"la Marina de Port","No consta",34
+2016,3,"Sants-Montjuïc",14,"la Font de la Guatlla","No consta",11
+2016,3,"Sants-Montjuïc",15,"Hostafrancs","No consta",17
+2016,3,"Sants-Montjuïc",16,"la Bordeta","No consta",24
+2016,3,"Sants-Montjuïc",17,"Sants - Badal","No consta",23
+2016,3,"Sants-Montjuïc",18,"Sants","No consta",22
+2016,4,"Les Corts",19,"les Corts","No consta",26
+2016,4,"Les Corts",20,"la Maternitat i Sant Ramon","No consta",14
+2016,4,"Les Corts",21,"Pedralbes","No consta",3
+2016,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","No consta",3
+2016,5,"Sarrià-Sant Gervasi",23,"Sarrià","No consta",5
+2016,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","No consta",6
+2016,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","No consta",9
+2016,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","No consta",18
+2016,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","No consta",14
+2016,6,"Gràcia",28,"Vallcarca i els Penitents","No consta",6
+2016,6,"Gràcia",29,"el Coll","No consta",6
+2016,6,"Gràcia",30,"la Salut","No consta",6
+2016,6,"Gràcia",31,"la Vila de Gràcia","No consta",27
+2016,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","No consta",18
+2016,7,"Horta-Guinardó",33,"el Baix Guinardó","No consta",24
+2016,7,"Horta-Guinardó",34,"Can Baró","No consta",8
+2016,7,"Horta-Guinardó",35,"el Guinardó","No consta",36
+2016,7,"Horta-Guinardó",36,"la Font d'en Fargues","No consta",3
+2016,7,"Horta-Guinardó",37,"el Carmel","No consta",33
+2016,7,"Horta-Guinardó",38,"la Teixonera","No consta",9
+2016,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","No consta",6
+2016,7,"Horta-Guinardó",40,"Montbau","No consta",7
+2016,7,"Horta-Guinardó",41,"la Vall d'Hebron","No consta",5
+2016,7,"Horta-Guinardó",42,"la Clota","No consta",0
+2016,7,"Horta-Guinardó",43,"Horta","No consta",17
+2016,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","No consta",24
+2016,8,"Nou Barris",45,"Porta","No consta",22
+2016,8,"Nou Barris",46,"el Turó de la Peira","No consta",20
+2016,8,"Nou Barris",47,"Can Peguera","No consta",6
+2016,8,"Nou Barris",48,"la Guineueta","No consta",14
+2016,8,"Nou Barris",49,"Canyelles","No consta",18
+2016,8,"Nou Barris",50,"les Roquetes","No consta",26
+2016,8,"Nou Barris",51,"Verdun","No consta",28
+2016,8,"Nou Barris",52,"la Prosperitat","No consta",33
+2016,8,"Nou Barris",53,"la Trinitat Nova","No consta",10
+2016,8,"Nou Barris",54,"Torre Baró","No consta",4
+2016,8,"Nou Barris",55,"Ciutat Meridiana","No consta",10
+2016,8,"Nou Barris",56,"Vallbona","No consta",4
+2016,9,"Sant Andreu",57,"la Trinitat Vella","No consta",6
+2016,9,"Sant Andreu",58,"Baró de Viver","No consta",2
+2016,9,"Sant Andreu",59,"el Bon Pastor","No consta",8
+2016,9,"Sant Andreu",60,"Sant Andreu","No consta",37
+2016,9,"Sant Andreu",61,"la Sagrera","No consta",21
+2016,9,"Sant Andreu",62,"el Congrés i els Indians","No consta",10
+2016,9,"Sant Andreu",63,"Navas","No consta",11
+2016,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","No consta",30
+2016,10,"Sant Martí",65,"el Clot","No consta",17
+2016,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","No consta",8
+2016,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","No consta",1
+2016,10,"Sant Martí",68,"el Poblenou","No consta",20
+2016,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","No consta",18
+2016,10,"Sant Martí",70,"el Besòs i el Maresme","No consta",29
+2016,10,"Sant Martí",71,"Provençals del Poblenou","No consta",17
+2016,10,"Sant Martí",72,"Sant Martí de Provençals","No consta",24
