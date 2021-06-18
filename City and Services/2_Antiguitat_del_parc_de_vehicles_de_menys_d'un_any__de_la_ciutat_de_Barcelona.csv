@@ -1,0 +1,444 @@
+"Any","Codi_Districte","Nom_Districte","Codi_Barri","Desc_Barri","Tipus_vehicle","Nombre"
+2018,1,"Ciutat Vella",1,"el Raval","Turismes",211.0
+2018,1,"Ciutat Vella",2,"el Barri Gòtic","Turismes",125.0
+2018,1,"Ciutat Vella",3,"la Barceloneta","Turismes",153.0
+2018,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Turismes",162.0
+2018,2,"Eixample",5,"el Fort Pienc","Turismes",587.0
+2018,2,"Eixample",6,"la Sagrada Família","Turismes",770.0
+2018,2,"Eixample",7,"la Dreta de l'Eixample","Turismes",1100.0
+2018,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Turismes",760.0
+2018,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Turismes",1043.0
+2018,2,"Eixample",10,"Sant Antoni","Turismes",503.0
+2018,3,"Sants-Montjuïc",11,"el Poble Sec - AEI Parc Montjuïc","Turismes",337.0
+2018,3,"Sants-Montjuïc",12,"la Marina del Prat Vermelll - AEI Zona Franca","Turismes",1153.0
+2018,3,"Sants-Montjuïc",13,"la Marina de Port","Turismes",628.0
+2018,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Turismes",155.0
+2018,3,"Sants-Montjuïc",15,"Hostafrancs","Turismes",206.0
+2018,3,"Sants-Montjuïc",16,"la Bordeta","Turismes",303.0
+2018,3,"Sants-Montjuïc",17,"Sants - Badal","Turismes",365.0
+2018,3,"Sants-Montjuïc",18,"Sants","Turismes",528.0
+2018,4,"Les Corts",19,"les Corts","Turismes",1203.0
+2018,4,"Les Corts",20,"la Maternitat i Sant Ramon","Turismes",409.0
+2018,4,"Les Corts",21,"Pedralbes","Turismes",377.0
+2018,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Turismes",107.0
+2018,5,"Sarrià-Sant Gervasi",23,"Sarrià","Turismes",587.0
+2018,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Turismes",416.0
+2018,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Turismes",594.0
+2018,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Turismes",1187.0
+2018,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Turismes",463.0
+2018,6,"Gràcia",28,"Vallcarca i els Penitents","Turismes",276.0
+2018,6,"Gràcia",29,"el Coll","Turismes",110.0
+2018,6,"Gràcia",30,"la Salut","Turismes",224.0
+2018,6,"Gràcia",31,"la Vila de Gràcia","Turismes",529.0
+2018,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Turismes",514.0
+2018,7,"Horta-Guinardó",33,"el Baix Guinardó","Turismes",323.0
+2018,7,"Horta-Guinardó",34,"Can Baró","Turismes",138.0
+2018,7,"Horta-Guinardó",35,"el Guinardó","Turismes",512.0
+2018,7,"Horta-Guinardó",36,"la Font d'en Fargues","Turismes",167.0
+2018,7,"Horta-Guinardó",37,"el Carmel","Turismes",464.0
+2018,7,"Horta-Guinardó",38,"la Teixonera","Turismes",213.0
+2018,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Turismes",99.0
+2018,7,"Horta-Guinardó",40,"Montbau","Turismes",81.0
+2018,7,"Horta-Guinardó",41,"la Vall d'Hebron","Turismes",103.0
+2018,7,"Horta-Guinardó",42,"la Clota","Turismes",11.0
+2018,7,"Horta-Guinardó",43,"Horta","Turismes",386.0
+2018,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Turismes",346.0
+2018,8,"Nou Barris",45,"Porta","Turismes",306.0
+2018,8,"Nou Barris",46,"el Turó de la Peira","Turismes",172.0
+2018,8,"Nou Barris",47,"Can Peguera","Turismes",25.0
+2018,8,"Nou Barris",48,"la Guineueta","Turismes",240.0
+2018,8,"Nou Barris",49,"Canyelles","Turismes",137.0
+2018,8,"Nou Barris",50,"les Roquetes","Turismes",176.0
+2018,8,"Nou Barris",51,"Verdun","Turismes",135.0
+2018,8,"Nou Barris",52,"la Prosperitat","Turismes",356.0
+2018,8,"Nou Barris",53,"la Trinitat Nova","Turismes",85.0
+2018,8,"Nou Barris",54,"Torre Baró","Turismes",34.0
+2018,8,"Nou Barris",55,"Ciutat Meridiana","Turismes",108.0
+2018,8,"Nou Barris",56,"Vallbona","Turismes",20.0
+2018,9,"Sant Andreu",57,"la Trinitat Vella","Turismes",124.0
+2018,9,"Sant Andreu",58,"Baró de Viver","Turismes",32.0
+2018,9,"Sant Andreu",59,"el Bon Pastor","Turismes",590.0
+2018,9,"Sant Andreu",60,"Sant Andreu","Turismes",1006.0
+2018,9,"Sant Andreu",61,"la Sagrera","Turismes",430.0
+2018,9,"Sant Andreu",62,"el Congrés i els Indians","Turismes",188.0
+2018,9,"Sant Andreu",63,"Navas","Turismes",323.0
+2018,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Turismes",509.0
+2018,10,"Sant Martí",65,"el Clot","Turismes",457.0
+2018,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Turismes",277.0
+2018,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Turismes",197.0
+2018,10,"Sant Martí",68,"el Poblenou","Turismes",927.0
+2018,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Turismes",266.0
+2018,10,"Sant Martí",70,"el Besòs i el Maresme","Turismes",295.0
+2018,10,"Sant Martí",71,"Provençals del Poblenou","Turismes",366.0
+2018,10,"Sant Martí",72,"Sant Martí de Provençals","Turismes",449.0
+2018,10,"Sant Martí",73,"la Verneda i la Pau","Turismes",455.0
+2018,99,"No consta",99,"No consta","Turismes",5.0
+2018,1,"Ciutat Vella",1,"el Raval","Motos",154.0
+2018,1,"Ciutat Vella",2,"el Barri Gòtic","Motos",96.0
+2018,1,"Ciutat Vella",3,"la Barceloneta","Motos",115.0
+2018,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Motos",166.0
+2018,2,"Eixample",5,"el Fort Pienc","Motos",251.0
+2018,2,"Eixample",6,"la Sagrada Família","Motos",417.0
+2018,2,"Eixample",7,"la Dreta de l'Eixample","Motos",505.0
+2018,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Motos",476.0
+2018,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Motos",532.0
+2018,2,"Eixample",10,"Sant Antoni","Motos",242.0
+2018,3,"Sants-Montjuïc",11,"el Poble Sec - AEI Parc Montjuïc","Motos",214.0
+2018,3,"Sants-Montjuïc",12,"la Marina del Prat Vermelll - AEI Zona Franca","Motos",33.0
+2018,3,"Sants-Montjuïc",13,"la Marina de Port","Motos",250.0
+2018,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Motos",61.0
+2018,3,"Sants-Montjuïc",15,"Hostafrancs","Motos",89.0
+2018,3,"Sants-Montjuïc",16,"la Bordeta","Motos",114.0
+2018,3,"Sants-Montjuïc",17,"Sants - Badal","Motos",161.0
+2018,3,"Sants-Montjuïc",18,"Sants","Motos",281.0
+2018,4,"Les Corts",19,"les Corts","Motos",406.0
+2018,4,"Les Corts",20,"la Maternitat i Sant Ramon","Motos",227.0
+2018,4,"Les Corts",21,"Pedralbes","Motos",141.0
+2018,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Motos",50.0
+2018,5,"Sarrià-Sant Gervasi",23,"Sarrià","Motos",240.0
+2018,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Motos",221.0
+2018,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Motos",673.0
+2018,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Motos",941.0
+2018,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Motos",378.0
+2018,6,"Gràcia",28,"Vallcarca i els Penitents","Motos",149.0
+2018,6,"Gràcia",29,"el Coll","Motos",74.0
+2018,6,"Gràcia",30,"la Salut","Motos",105.0
+2018,6,"Gràcia",31,"la Vila de Gràcia","Motos",355.0
+2018,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Motos",298.0
+2018,7,"Horta-Guinardó",33,"el Baix Guinardó","Motos",202.0
+2018,7,"Horta-Guinardó",34,"Can Baró","Motos",82.0
+2018,7,"Horta-Guinardó",35,"el Guinardó","Motos",274.0
+2018,7,"Horta-Guinardó",36,"la Font d'en Fargues","Motos",100.0
+2018,7,"Horta-Guinardó",37,"el Carmel","Motos",259.0
+2018,7,"Horta-Guinardó",38,"la Teixonera","Motos",107.0
+2018,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Motos",39.0
+2018,7,"Horta-Guinardó",40,"Montbau","Motos",34.0
+2018,7,"Horta-Guinardó",41,"la Vall d'Hebron","Motos",31.0
+2018,7,"Horta-Guinardó",42,"la Clota","Motos",7.0
+2018,7,"Horta-Guinardó",43,"Horta","Motos",217.0
+2018,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Motos",153.0
+2018,8,"Nou Barris",45,"Porta","Motos",144.0
+2018,8,"Nou Barris",46,"el Turó de la Peira","Motos",90.0
+2018,8,"Nou Barris",47,"Can Peguera","Motos",14.0
+2018,8,"Nou Barris",48,"la Guineueta","Motos",96.0
+2018,8,"Nou Barris",49,"Canyelles","Motos",45.0
+2018,8,"Nou Barris",50,"les Roquetes","Motos",83.0
+2018,8,"Nou Barris",51,"Verdun","Motos",51.0
+2018,8,"Nou Barris",52,"la Prosperitat","Motos",160.0
+2018,8,"Nou Barris",53,"la Trinitat Nova","Motos",31.0
+2018,8,"Nou Barris",54,"Torre Baró","Motos",13.0
+2018,8,"Nou Barris",55,"Ciutat Meridiana","Motos",27.0
+2018,8,"Nou Barris",56,"Vallbona","Motos",6.0
+2018,9,"Sant Andreu",57,"la Trinitat Vella","Motos",46.0
+2018,9,"Sant Andreu",58,"Baró de Viver","Motos",8.0
+2018,9,"Sant Andreu",59,"el Bon Pastor","Motos",91.0
+2018,9,"Sant Andreu",60,"Sant Andreu","Motos",357.0
+2018,9,"Sant Andreu",61,"la Sagrera","Motos",178.0
+2018,9,"Sant Andreu",62,"el Congrés i els Indians","Motos",82.0
+2018,9,"Sant Andreu",63,"Navas","Motos",143.0
+2018,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Motos",258.0
+2018,10,"Sant Martí",65,"el Clot","Motos",173.0
+2018,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Motos",106.0
+2018,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Motos",78.0
+2018,10,"Sant Martí",68,"el Poblenou","Motos",262.0
+2018,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Motos",92.0
+2018,10,"Sant Martí",70,"el Besòs i el Maresme","Motos",81.0
+2018,10,"Sant Martí",71,"Provençals del Poblenou","Motos",156.0
+2018,10,"Sant Martí",72,"Sant Martí de Provençals","Motos",139.0
+2018,10,"Sant Martí",73,"la Verneda i la Pau","Motos",131.0
+2018,99,"No consta",99,"No consta","Motos",2.0
+2018,1,"Ciutat Vella",1,"el Raval","Ciclomotors",24.0
+2018,1,"Ciutat Vella",2,"el Barri Gòtic","Ciclomotors",2.0
+2018,1,"Ciutat Vella",3,"la Barceloneta","Ciclomotors",7.0
+2018,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Ciclomotors",1.4669999999999999
+2018,2,"Eixample",5,"el Fort Pienc","Ciclomotors",15.0
+2018,2,"Eixample",6,"la Sagrada Família","Ciclomotors",15.0
+2018,2,"Eixample",7,"la Dreta de l'Eixample","Ciclomotors",25.0
+2018,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Ciclomotors",27.0
+2018,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Ciclomotors",25.0
+2018,2,"Eixample",10,"Sant Antoni","Ciclomotors",15.0
+2018,3,"Sants-Montjuïc",11,"el Poble Sec - AEI Parc Montjuïc","Ciclomotors",12.0
+2018,3,"Sants-Montjuïc",12,"la Marina del Prat Vermelll - AEI Zona Franca","Ciclomotors",0.0
+2018,3,"Sants-Montjuïc",13,"la Marina de Port","Ciclomotors",17.0
+2018,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Ciclomotors",6.0
+2018,3,"Sants-Montjuïc",15,"Hostafrancs","Ciclomotors",4.0
+2018,3,"Sants-Montjuïc",16,"la Bordeta","Ciclomotors",4.0
+2018,3,"Sants-Montjuïc",17,"Sants - Badal","Ciclomotors",6.0
+2018,3,"Sants-Montjuïc",18,"Sants","Ciclomotors",13.0
+2018,4,"Les Corts",19,"les Corts","Ciclomotors",316.0
+2018,4,"Les Corts",20,"la Maternitat i Sant Ramon","Ciclomotors",10.0
+2018,4,"Les Corts",21,"Pedralbes","Ciclomotors",5.0
+2018,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Ciclomotors",2.0
+2018,5,"Sarrià-Sant Gervasi",23,"Sarrià","Ciclomotors",5.0
+2018,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Ciclomotors",8.0
+2018,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Ciclomotors",11.0
+2018,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Ciclomotors",28.0
+2018,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Ciclomotors",13.0
+2018,6,"Gràcia",28,"Vallcarca i els Penitents","Ciclomotors",9.0
+2018,6,"Gràcia",29,"el Coll","Ciclomotors",7.0
+2018,6,"Gràcia",30,"la Salut","Ciclomotors",5.0
+2018,6,"Gràcia",31,"la Vila de Gràcia","Ciclomotors",17.0
+2018,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Ciclomotors",12.0
+2018,7,"Horta-Guinardó",33,"el Baix Guinardó","Ciclomotors",9.0
+2018,7,"Horta-Guinardó",34,"Can Baró","Ciclomotors",4.0
+2018,7,"Horta-Guinardó",35,"el Guinardó","Ciclomotors",7.0
+2018,7,"Horta-Guinardó",36,"la Font d'en Fargues","Ciclomotors",3.0
+2018,7,"Horta-Guinardó",37,"el Carmel","Ciclomotors",20.0
+2018,7,"Horta-Guinardó",38,"la Teixonera","Ciclomotors",5.0
+2018,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Ciclomotors",3.0
+2018,7,"Horta-Guinardó",40,"Montbau","Ciclomotors",0.0
+2018,7,"Horta-Guinardó",41,"la Vall d'Hebron","Ciclomotors",1.0
+2018,7,"Horta-Guinardó",42,"la Clota","Ciclomotors",0.0
+2018,7,"Horta-Guinardó",43,"Horta","Ciclomotors",8.0
+2018,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Ciclomotors",8.0
+2018,8,"Nou Barris",45,"Porta","Ciclomotors",7.0
+2018,8,"Nou Barris",46,"el Turó de la Peira","Ciclomotors",5.0
+2018,8,"Nou Barris",47,"Can Peguera","Ciclomotors",2.0
+2018,8,"Nou Barris",48,"la Guineueta","Ciclomotors",4.0
+2018,8,"Nou Barris",49,"Canyelles","Ciclomotors",3.0
+2018,8,"Nou Barris",50,"les Roquetes","Ciclomotors",3.0
+2018,8,"Nou Barris",51,"Verdun","Ciclomotors",2.0
+2018,8,"Nou Barris",52,"la Prosperitat","Ciclomotors",2.0
+2018,8,"Nou Barris",53,"la Trinitat Nova","Ciclomotors",2.0
+2018,8,"Nou Barris",54,"Torre Baró","Ciclomotors",3.0
+2018,8,"Nou Barris",55,"Ciutat Meridiana","Ciclomotors",0.0
+2018,8,"Nou Barris",56,"Vallbona","Ciclomotors",1.0
+2018,9,"Sant Andreu",57,"la Trinitat Vella","Ciclomotors",4.0
+2018,9,"Sant Andreu",58,"Baró de Viver","Ciclomotors",0.0
+2018,9,"Sant Andreu",59,"el Bon Pastor","Ciclomotors",5.0
+2018,9,"Sant Andreu",60,"Sant Andreu","Ciclomotors",10.0
+2018,9,"Sant Andreu",61,"la Sagrera","Ciclomotors",2.0
+2018,9,"Sant Andreu",62,"el Congrés i els Indians","Ciclomotors",2.0
+2018,9,"Sant Andreu",63,"Navas","Ciclomotors",5.0
+2018,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Ciclomotors",11.0
+2018,10,"Sant Martí",65,"el Clot","Ciclomotors",11.0
+2018,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Ciclomotors",14.0
+2018,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Ciclomotors",0.0
+2018,10,"Sant Martí",68,"el Poblenou","Ciclomotors",12.0
+2018,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Ciclomotors",4.0
+2018,10,"Sant Martí",70,"el Besòs i el Maresme","Ciclomotors",5.0
+2018,10,"Sant Martí",71,"Provençals del Poblenou","Ciclomotors",10.0
+2018,10,"Sant Martí",72,"Sant Martí de Provençals","Ciclomotors",11.0
+2018,10,"Sant Martí",73,"la Verneda i la Pau","Ciclomotors",7.0
+2018,99,"No consta",99,"No consta","Ciclomotors",0.0
+2018,1,"Ciutat Vella",1,"el Raval","Furgonetes",16.0
+2018,1,"Ciutat Vella",2,"el Barri Gòtic","Furgonetes",11.0
+2018,1,"Ciutat Vella",3,"la Barceloneta","Furgonetes",10.0
+2018,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Furgonetes",19.0
+2018,2,"Eixample",5,"el Fort Pienc","Furgonetes",21.0
+2018,2,"Eixample",6,"la Sagrada Família","Furgonetes",40.0
+2018,2,"Eixample",7,"la Dreta de l'Eixample","Furgonetes",80.0
+2018,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Furgonetes",36.0
+2018,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Furgonetes",44.0
+2018,2,"Eixample",10,"Sant Antoni","Furgonetes",20.0
+2018,3,"Sants-Montjuïc",11,"el Poble Sec - AEI Parc Montjuïc","Furgonetes",35.0
+2018,3,"Sants-Montjuïc",12,"la Marina del Prat Vermelll - AEI Zona Franca","Furgonetes",119.0
+2018,3,"Sants-Montjuïc",13,"la Marina de Port","Furgonetes",16.0
+2018,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Furgonetes",7.0
+2018,3,"Sants-Montjuïc",15,"Hostafrancs","Furgonetes",12.0
+2018,3,"Sants-Montjuïc",16,"la Bordeta","Furgonetes",19.0
+2018,3,"Sants-Montjuïc",17,"Sants - Badal","Furgonetes",24.0
+2018,3,"Sants-Montjuïc",18,"Sants","Furgonetes",18.0
+2018,4,"Les Corts",19,"les Corts","Furgonetes",38.0
+2018,4,"Les Corts",20,"la Maternitat i Sant Ramon","Furgonetes",11.0
+2018,4,"Les Corts",21,"Pedralbes","Furgonetes",10.0
+2018,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Furgonetes",3.0
+2018,5,"Sarrià-Sant Gervasi",23,"Sarrià","Furgonetes",28.0
+2018,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Furgonetes",6.0
+2018,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Furgonetes",27.0
+2018,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Furgonetes",53.0
+2018,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Furgonetes",14.0
+2018,6,"Gràcia",28,"Vallcarca i els Penitents","Furgonetes",6.0
+2018,6,"Gràcia",29,"el Coll","Furgonetes",3.0
+2018,6,"Gràcia",30,"la Salut","Furgonetes",4.0
+2018,6,"Gràcia",31,"la Vila de Gràcia","Furgonetes",30.0
+2018,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Furgonetes",23.0
+2018,7,"Horta-Guinardó",33,"el Baix Guinardó","Furgonetes",14.0
+2018,7,"Horta-Guinardó",34,"Can Baró","Furgonetes",5.0
+2018,7,"Horta-Guinardó",35,"el Guinardó","Furgonetes",48.0
+2018,7,"Horta-Guinardó",36,"la Font d'en Fargues","Furgonetes",6.0
+2018,7,"Horta-Guinardó",37,"el Carmel","Furgonetes",16.0
+2018,7,"Horta-Guinardó",38,"la Teixonera","Furgonetes",13.0
+2018,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Furgonetes",8.0
+2018,7,"Horta-Guinardó",40,"Montbau","Furgonetes",2.0
+2018,7,"Horta-Guinardó",41,"la Vall d'Hebron","Furgonetes",9.0
+2018,7,"Horta-Guinardó",42,"la Clota","Furgonetes",1.0
+2018,7,"Horta-Guinardó",43,"Horta","Furgonetes",22.0
+2018,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Furgonetes",33.0
+2018,8,"Nou Barris",45,"Porta","Furgonetes",21.0
+2018,8,"Nou Barris",46,"el Turó de la Peira","Furgonetes",15.0
+2018,8,"Nou Barris",47,"Can Peguera","Furgonetes",5.0
+2018,8,"Nou Barris",48,"la Guineueta","Furgonetes",10.0
+2018,8,"Nou Barris",49,"Canyelles","Furgonetes",7.0
+2018,8,"Nou Barris",50,"les Roquetes","Furgonetes",12.0
+2018,8,"Nou Barris",51,"Verdun","Furgonetes",18.0
+2018,8,"Nou Barris",52,"la Prosperitat","Furgonetes",17.0
+2018,8,"Nou Barris",53,"la Trinitat Nova","Furgonetes",7.0
+2018,8,"Nou Barris",54,"Torre Baró","Furgonetes",4.0
+2018,8,"Nou Barris",55,"Ciutat Meridiana","Furgonetes",6.0
+2018,8,"Nou Barris",56,"Vallbona","Furgonetes",2.0
+2018,9,"Sant Andreu",57,"la Trinitat Vella","Furgonetes",14.0
+2018,9,"Sant Andreu",58,"Baró de Viver","Furgonetes",3.0
+2018,9,"Sant Andreu",59,"el Bon Pastor","Furgonetes",26.0
+2018,9,"Sant Andreu",60,"Sant Andreu","Furgonetes",56.0
+2018,9,"Sant Andreu",61,"la Sagrera","Furgonetes",17.0
+2018,9,"Sant Andreu",62,"el Congrés i els Indians","Furgonetes",11.0
+2018,9,"Sant Andreu",63,"Navas","Furgonetes",12.0
+2018,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Furgonetes",29.0
+2018,10,"Sant Martí",65,"el Clot","Furgonetes",27.0
+2018,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Furgonetes",38.0
+2018,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Furgonetes",15.0
+2018,10,"Sant Martí",68,"el Poblenou","Furgonetes",23.0
+2018,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Furgonetes",9.0
+2018,10,"Sant Martí",70,"el Besòs i el Maresme","Furgonetes",18.0
+2018,10,"Sant Martí",71,"Provençals del Poblenou","Furgonetes",83.0
+2018,10,"Sant Martí",72,"Sant Martí de Provençals","Furgonetes",25.0
+2018,10,"Sant Martí",73,"la Verneda i la Pau","Furgonetes",44.0
+2018,99,"No consta",99,"No consta","Furgonetes",0.0
+2018,1,"Ciutat Vella",1,"el Raval","Camions",1.0
+2018,1,"Ciutat Vella",2,"el Barri Gòtic","Camions",10.0
+2018,1,"Ciutat Vella",3,"la Barceloneta","Camions",2.0
+2018,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Camions",3.0
+2018,2,"Eixample",5,"el Fort Pienc","Camions",10.0
+2018,2,"Eixample",6,"la Sagrada Família","Camions",7.0
+2018,2,"Eixample",7,"la Dreta de l'Eixample","Camions",16.0
+2018,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Camions",11.0
+2018,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Camions",9.0
+2018,2,"Eixample",10,"Sant Antoni","Camions",8.0
+2018,3,"Sants-Montjuïc",11,"el Poble Sec - AEI Parc Montjuïc","Camions",7.0
+2018,3,"Sants-Montjuïc",12,"la Marina del Prat Vermelll - AEI Zona Franca","Camions",123.0
+2018,3,"Sants-Montjuïc",13,"la Marina de Port","Camions",7.0
+2018,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Camions",1.0
+2018,3,"Sants-Montjuïc",15,"Hostafrancs","Camions",1.0
+2018,3,"Sants-Montjuïc",16,"la Bordeta","Camions",2.0
+2018,3,"Sants-Montjuïc",17,"Sants - Badal","Camions",2.0
+2018,3,"Sants-Montjuïc",18,"Sants","Camions",3.0
+2018,4,"Les Corts",19,"les Corts","Camions",7.0
+2018,4,"Les Corts",20,"la Maternitat i Sant Ramon","Camions",3.0
+2018,4,"Les Corts",21,"Pedralbes","Camions",3.0
+2018,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Camions",1.0
+2018,5,"Sarrià-Sant Gervasi",23,"Sarrià","Camions",4.0
+2018,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Camions",2.0
+2018,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Camions",2.0
+2018,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Camions",10.0
+2018,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Camions",3.0
+2018,6,"Gràcia",28,"Vallcarca i els Penitents","Camions",1.0
+2018,6,"Gràcia",29,"el Coll","Camions",1.0
+2018,6,"Gràcia",30,"la Salut","Camions",1.0
+2018,6,"Gràcia",31,"la Vila de Gràcia","Camions",21.0
+2018,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Camions",0.0
+2018,7,"Horta-Guinardó",33,"el Baix Guinardó","Camions",3.0
+2018,7,"Horta-Guinardó",34,"Can Baró","Camions",2.0
+2018,7,"Horta-Guinardó",35,"el Guinardó","Camions",24.0
+2018,7,"Horta-Guinardó",36,"la Font d'en Fargues","Camions",0.0
+2018,7,"Horta-Guinardó",37,"el Carmel","Camions",7.0
+2018,7,"Horta-Guinardó",38,"la Teixonera","Camions",1.0
+2018,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Camions",0.0
+2018,7,"Horta-Guinardó",40,"Montbau","Camions",0.0
+2018,7,"Horta-Guinardó",41,"la Vall d'Hebron","Camions",0.0
+2018,7,"Horta-Guinardó",42,"la Clota","Camions",0.0
+2018,7,"Horta-Guinardó",43,"Horta","Camions",2.0
+2018,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Camions",7.0
+2018,8,"Nou Barris",45,"Porta","Camions",2.0
+2018,8,"Nou Barris",46,"el Turó de la Peira","Camions",0.0
+2018,8,"Nou Barris",47,"Can Peguera","Camions",1.0
+2018,8,"Nou Barris",48,"la Guineueta","Camions",3.0
+2018,8,"Nou Barris",49,"Canyelles","Camions",2.0
+2018,8,"Nou Barris",50,"les Roquetes","Camions",4.0
+2018,8,"Nou Barris",51,"Verdun","Camions",2.0
+2018,8,"Nou Barris",52,"la Prosperitat","Camions",4.0
+2018,8,"Nou Barris",53,"la Trinitat Nova","Camions",1.0
+2018,8,"Nou Barris",54,"Torre Baró","Camions",1.0
+2018,8,"Nou Barris",55,"Ciutat Meridiana","Camions",1.0
+2018,8,"Nou Barris",56,"Vallbona","Camions",1.0
+2018,9,"Sant Andreu",57,"la Trinitat Vella","Camions",3.0
+2018,9,"Sant Andreu",58,"Baró de Viver","Camions",0.0
+2018,9,"Sant Andreu",59,"el Bon Pastor","Camions",23.0
+2018,9,"Sant Andreu",60,"Sant Andreu","Camions",3.0
+2018,9,"Sant Andreu",61,"la Sagrera","Camions",8.0
+2018,9,"Sant Andreu",62,"el Congrés i els Indians","Camions",1.0
+2018,9,"Sant Andreu",63,"Navas","Camions",0.0
+2018,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Camions",9.0
+2018,10,"Sant Martí",65,"el Clot","Camions",5.0
+2018,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Camions",7.0
+2018,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Camions",1.0
+2018,10,"Sant Martí",68,"el Poblenou","Camions",14.0
+2018,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Camions",0.0
+2018,10,"Sant Martí",70,"el Besòs i el Maresme","Camions",1.0
+2018,10,"Sant Martí",71,"Provençals del Poblenou","Camions",6.0
+2018,10,"Sant Martí",72,"Sant Martí de Provençals","Camions",4.0
+2018,10,"Sant Martí",73,"la Verneda i la Pau","Camions",7.0
+2018,99,"No consta",99,"No consta","Camions",0.0
+2018,1,"Ciutat Vella",1,"el Raval","Altres vehicles",8.0
+2018,1,"Ciutat Vella",2,"el Barri Gòtic","Altres vehicles",3.0
+2018,1,"Ciutat Vella",3,"la Barceloneta","Altres vehicles",2.0
+2018,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Altres vehicles",1.0
+2018,2,"Eixample",5,"el Fort Pienc","Altres vehicles",18.0
+2018,2,"Eixample",6,"la Sagrada Família","Altres vehicles",21.0
+2018,2,"Eixample",7,"la Dreta de l'Eixample","Altres vehicles",123.0
+2018,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Altres vehicles",12.0
+2018,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Altres vehicles",14.0
+2018,2,"Eixample",10,"Sant Antoni","Altres vehicles",12.0
+2018,3,"Sants-Montjuïc",11,"el Poble Sec - AEI Parc Montjuïc","Altres vehicles",3.0
+2018,3,"Sants-Montjuïc",12,"la Marina del Prat Vermelll - AEI Zona Franca","Altres vehicles",274.0
+2018,3,"Sants-Montjuïc",13,"la Marina de Port","Altres vehicles",13.0
+2018,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Altres vehicles",5.0
+2018,3,"Sants-Montjuïc",15,"Hostafrancs","Altres vehicles",1.0
+2018,3,"Sants-Montjuïc",16,"la Bordeta","Altres vehicles",4.0
+2018,3,"Sants-Montjuïc",17,"Sants - Badal","Altres vehicles",7.0
+2018,3,"Sants-Montjuïc",18,"Sants","Altres vehicles",11.0
+2018,4,"Les Corts",19,"les Corts","Altres vehicles",9.0
+2018,4,"Les Corts",20,"la Maternitat i Sant Ramon","Altres vehicles",14.0
+2018,4,"Les Corts",21,"Pedralbes","Altres vehicles",2.0
+2018,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Altres vehicles",3.0
+2018,5,"Sarrià-Sant Gervasi",23,"Sarrià","Altres vehicles",5.0
+2018,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Altres vehicles",3.0
+2018,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Altres vehicles",5.0
+2018,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Altres vehicles",35.0
+2018,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Altres vehicles",4.0
+2018,6,"Gràcia",28,"Vallcarca i els Penitents","Altres vehicles",7.0
+2018,6,"Gràcia",29,"el Coll","Altres vehicles",1.0
+2018,6,"Gràcia",30,"la Salut","Altres vehicles",4.0
+2018,6,"Gràcia",31,"la Vila de Gràcia","Altres vehicles",35.0
+2018,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Altres vehicles",6.0
+2018,7,"Horta-Guinardó",33,"el Baix Guinardó","Altres vehicles",8.0
+2018,7,"Horta-Guinardó",34,"Can Baró","Altres vehicles",4.0
+2018,7,"Horta-Guinardó",35,"el Guinardó","Altres vehicles",9.0
+2018,7,"Horta-Guinardó",36,"la Font d'en Fargues","Altres vehicles",5.0
+2018,7,"Horta-Guinardó",37,"el Carmel","Altres vehicles",6.0
+2018,7,"Horta-Guinardó",38,"la Teixonera","Altres vehicles",2.0
+2018,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Altres vehicles",0.0
+2018,7,"Horta-Guinardó",40,"Montbau","Altres vehicles",3.0
+2018,7,"Horta-Guinardó",41,"la Vall d'Hebron","Altres vehicles",1.0
+2018,7,"Horta-Guinardó",42,"la Clota","Altres vehicles",0.0
+2018,7,"Horta-Guinardó",43,"Horta","Altres vehicles",6.0
+2018,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Altres vehicles",7.0
+2018,8,"Nou Barris",45,"Porta","Altres vehicles",4.0
+2018,8,"Nou Barris",46,"el Turó de la Peira","Altres vehicles",0.0
+2018,8,"Nou Barris",47,"Can Peguera","Altres vehicles",0.0
+2018,8,"Nou Barris",48,"la Guineueta","Altres vehicles",1.0
+2018,8,"Nou Barris",49,"Canyelles","Altres vehicles",1.0
+2018,8,"Nou Barris",50,"les Roquetes","Altres vehicles",1.0
+2018,8,"Nou Barris",51,"Verdun","Altres vehicles",3.0
+2018,8,"Nou Barris",52,"la Prosperitat","Altres vehicles",12.0
+2018,8,"Nou Barris",53,"la Trinitat Nova","Altres vehicles",0.0
+2018,8,"Nou Barris",54,"Torre Baró","Altres vehicles",0.0
+2018,8,"Nou Barris",55,"Ciutat Meridiana","Altres vehicles",14.0
+2018,8,"Nou Barris",56,"Vallbona","Altres vehicles",2.0
+2018,9,"Sant Andreu",57,"la Trinitat Vella","Altres vehicles",1.0
+2018,9,"Sant Andreu",58,"Baró de Viver","Altres vehicles",1.0
+2018,9,"Sant Andreu",59,"el Bon Pastor","Altres vehicles",5.0
+2018,9,"Sant Andreu",60,"Sant Andreu","Altres vehicles",5.0
+2018,9,"Sant Andreu",61,"la Sagrera","Altres vehicles",3.0
+2018,9,"Sant Andreu",62,"el Congrés i els Indians","Altres vehicles",2.0
+2018,9,"Sant Andreu",63,"Navas","Altres vehicles",7.0
+2018,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Altres vehicles",10.0
+2018,10,"Sant Martí",65,"el Clot","Altres vehicles",3.0
+2018,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Altres vehicles",3.0
+2018,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Altres vehicles",1.0
+2018,10,"Sant Martí",68,"el Poblenou","Altres vehicles",11.0
+2018,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Altres vehicles",5.0
+2018,10,"Sant Martí",70,"el Besòs i el Maresme","Altres vehicles",8.0
+2018,10,"Sant Martí",71,"Provençals del Poblenou","Altres vehicles",29.0
+2018,10,"Sant Martí",72,"Sant Martí de Provençals","Altres vehicles",4.0
+2018,10,"Sant Martí",73,"la Verneda i la Pau","Altres vehicles",6.0
