@@ -47,4 +47,4 @@ This folder contains the python notebook hosting the models implemented.
 
 ## Reproducing the models results
 
-If you want to reproduce the results you need to download the files of *Input models* folder and locate them in a google drive folder. Download the notebooks which you are interested in reproduce the results and also store it in the same google drive folder as the other files. Replace the paths of the input data of the notebooks by the path of your google drive folder. Then, simply run the notebooks. 
+If you want to reproduce the results you need to download the files of *Input models* folder and locate them in a google drive folder. Download the notebooks and the final GCNN model from *Models* and also store them in the same google drive folder as the other files. Replace all the paths importing data in the notebooks by the path of your google drive folder. Then, simply run the notebooks. 
